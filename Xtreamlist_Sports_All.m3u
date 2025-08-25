@@ -3797,60 +3797,68 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/929742.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/929783.ts
 #EXTINF:-1 tvg-id="beinsportsnewsfhd" tvg-name="beIN SPORTS NEWS (F) - HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/07/beIN-Sports.png" group-title="SPORTS | beIN Media",beIN SPORTS NEWS (F) - HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/929784.ts
-#EXTINF:-1 tvg-id="cadazn13" tvg-name="CA-DAZN 13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 13
+#EXTINF:-1 tvg-id="cadazn10leaguecupprestonnorthendvswrexhamtue26aug0845vn" tvg-name="CA-DAZN 10: League Cup| Preston North End vs. Wrexham| Tue 26 Aug 08:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 10: League Cup| Preston North End vs. Wrexham| Tue 26 Aug 08:45 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626624.ts
+#EXTINF:-1 tvg-id="cadazn11dfbpokaleintrachtbraunschweigvsstuttgarttue26aug0845vn" tvg-name="CA-DAZN 11: DFB Pokal| Eintracht Braunschweig vs. Stuttgart| Tue 26 Aug 08:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 11: DFB Pokal| Eintracht Braunschweig vs. Stuttgart| Tue 26 Aug 08:45 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626625.ts
+#EXTINF:-1 tvg-id="cadazn12uefachampionsleaguesturmgrazvsbodoglimttue26aug0900vn" tvg-name="CA-DAZN 12: UEFA Champions League| Sturm Graz vs. Bodo/Glimt| Tue 26 Aug 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 12: UEFA Champions League| Sturm Graz vs. Bodo/Glimt| Tue 26 Aug 09:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626626.ts
+#EXTINF:-1 tvg-id="cadazn13uefachampionsleaguepafosvsredstartue26aug0900vn" tvg-name="CA-DAZN 13: UEFA Champions League| Pafos vs. Red Star| Tue 26 Aug 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 13: UEFA Champions League| Pafos vs. Red Star| Tue 26 Aug 09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626627.ts
-#EXTINF:-1 tvg-id="cadazn14" tvg-name="CA-DAZN 14" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 14
-http://tv.8dott.xyz:80/live/samuel/samuel123456/626628.ts
-#EXTINF:-1 tvg-id="cadazn15" tvg-name="CA-DAZN 15" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 15
+#EXTINF:-1 tvg-id="cadazn15fibaamericupuruguayvsbahamastue26aug1210vn" tvg-name="CA-DAZN 15: FIBA AmeriCup| Uruguay vs. Bahamas| Tue 26 Aug 12:10 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 15: FIBA AmeriCup| Uruguay vs. Bahamas| Tue 26 Aug 12:10 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626629.ts
-#EXTINF:-1 tvg-id="cadazn16" tvg-name="CA-DAZN 16" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 16
+#EXTINF:-1 tvg-id="cadazn16fibaamericupunitedstatesvsbraziltue26aug1510vn" tvg-name="CA-DAZN 16: FIBA AmeriCup| United States vs. Brazil| Tue 26 Aug 15:10 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 16: FIBA AmeriCup| United States vs. Brazil| Tue 26 Aug 15:10 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626630.ts
-#EXTINF:-1 tvg-id="cadazn17" tvg-name="CA-DAZN 17" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 17
+#EXTINF:-1 tvg-id="cadazn17fibaeurobasketgreatbritainvslithuaniawed27aug1230vn" tvg-name="CA-DAZN 17: FIBA EuroBasket| Great Britain vs. Lithuania| Wed 27 Aug 12:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 17: FIBA EuroBasket| Great Britain vs. Lithuania| Wed 27 Aug 12:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626631.ts
-#EXTINF:-1 tvg-id="cadazn18" tvg-name="CA-DAZN 18" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 18
+#EXTINF:-1 tvg-id="cadazn18daznonly_uefayouthleague20252026leaguephasedrawwed27aug1300vn" tvg-name="CA-DAZN 18: DAZN ONLY _ UEFA Youth League 2025/2026| League Phase Draw| Wed 27 Aug 13:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 18: DAZN ONLY _ UEFA Youth League 2025/2026| League Phase Draw| Wed 27 Aug 13:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626632.ts
-#EXTINF:-1 tvg-id="cadazn19" tvg-name="CA-DAZN 19" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 19
+#EXTINF:-1 tvg-id="cadazn19fibaeurobasketczechiavsportugalwed27aug1345vn" tvg-name="CA-DAZN 19: FIBA EuroBasket| Czechia vs. Portugal| Wed 27 Aug 13:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 19: FIBA EuroBasket| Czechia vs. Portugal| Wed 27 Aug 13:45 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626633.ts
-#EXTINF:-1 tvg-id="cadazn20" tvg-name="CA-DAZN 20" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 20
+#EXTINF:-1 tvg-id="cadazn1legaserieaintervstorinomon25aug0845vn" tvg-name="CA-DAZN 1: Lega Serie A| Inter vs. Torino| Mon 25 Aug 08:45 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 1: Lega Serie A| Inter vs. Torino| Mon 25 Aug 08:45 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626615.ts
+#EXTINF:-1 tvg-id="cadazn20fibaeurobasketmontenegrovsgermanywed27aug1530vn" tvg-name="CA-DAZN 20: FIBA EuroBasket| Montenegro vs. Germany| Wed 27 Aug 15:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 20: FIBA EuroBasket| Montenegro vs. Germany| Wed 27 Aug 15:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626634.ts
-#EXTINF:-1 tvg-id="cadazn21" tvg-name="CA-DAZN 21" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 21
+#EXTINF:-1 tvg-id="cadazn21fibaeurobasketlatviavstürkiyewed27aug1700vn" tvg-name="CA-DAZN 21: FIBA EuroBasket| Latvia vs. Türkiye| Wed 27 Aug 17:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 21: FIBA EuroBasket| Latvia vs. Türkiye| Wed 27 Aug 17:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626635.ts
-#EXTINF:-1 tvg-id="cadazn22" tvg-name="CA-DAZN 22" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 22
+#EXTINF:-1 tvg-id="cadazn22uefachampionsleagueqarabagvsferencvaroswed27aug1845vn" tvg-name="CA-DAZN 22: UEFA Champions League| Qarabag vs. Ferencvaros| Wed 27 Aug 18:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 22: UEFA Champions League| Qarabag vs. Ferencvaros| Wed 27 Aug 18:45 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626636.ts
-#EXTINF:-1 tvg-id="cadazn23" tvg-name="CA-DAZN 23" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 23
+#EXTINF:-1 tvg-id="cadazn23fibaeurobasketswedenvsfinlandwed27aug0730vn" tvg-name="CA-DAZN 23: FIBA EuroBasket| Sweden vs. Finland| Wed 27 Aug 07:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 23: FIBA EuroBasket| Sweden vs. Finland| Wed 27 Aug 07:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626637.ts
-#EXTINF:-1 tvg-id="cadazn24" tvg-name="CA-DAZN 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 24
+#EXTINF:-1 tvg-id="cadazn24fibaeurobasketserbiavsestoniawed27aug0815vn" tvg-name="CA-DAZN 24: FIBA EuroBasket| Serbia vs. Estonia| Wed 27 Aug 08:15 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 24: FIBA EuroBasket| Serbia vs. Estonia| Wed 27 Aug 08:15 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626638.ts
-#EXTINF:-1 tvg-id="cadazn25" tvg-name="CA-DAZN 25" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 25
+#EXTINF:-1 tvg-id="cadazn25dazntransferbyfabrizioromano_27augustwed27aug0830vn" tvg-name="CA-DAZN 25: DAZN Transfer by Fabrizio Romano _ 27 August| Wed 27 Aug 08:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 25: DAZN Transfer by Fabrizio Romano _ 27 August| Wed 27 Aug 08:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626639.ts
-#EXTINF:-1 tvg-id="cadazn26" tvg-name="CA-DAZN 26" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 26
+#EXTINF:-1 tvg-id="cadazn26dfbpokalwehenwiesbadenvsbayernmunichwed27aug0845vn" tvg-name="CA-DAZN 26: DFB Pokal| Wehen Wiesbaden vs. Bayern Munich| Wed 27 Aug 08:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 26: DFB Pokal| Wehen Wiesbaden vs. Bayern Munich| Wed 27 Aug 08:45 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626640.ts
-#EXTINF:-1 tvg-id="cadazn27" tvg-name="CA-DAZN 27" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 27
+#EXTINF:-1 tvg-id="cadazn27uefachampionsleaguecopenhagenvsbaselwed27aug0900vn" tvg-name="CA-DAZN 27: UEFA Champions League| Copenhagen vs. Basel| Wed 27 Aug 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 27: UEFA Champions League| Copenhagen vs. Basel| Wed 27 Aug 09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626641.ts
-#EXTINF:-1 tvg-id="cadazn28" tvg-name="CA-DAZN 28" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 28
+#EXTINF:-1 tvg-id="cadazn28uefachampionsleagueclubbruggevsrangerswed27aug0900vn" tvg-name="CA-DAZN 28: UEFA Champions League| Club Brugge vs. Rangers| Wed 27 Aug 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 28: UEFA Champions League| Club Brugge vs. Rangers| Wed 27 Aug 09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626642.ts
-#EXTINF:-1 tvg-id="cadazn29" tvg-name="CA-DAZN 29" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 29
+#EXTINF:-1 tvg-id="cadazn29uefachampionsleagueclubbruggevsrangerscommentairesenfrancaiswed27aug0900vn" tvg-name="CA-DAZN 29: UEFA Champions League| Club Brugge vs. Rangers (Commentaires en Francais)| Wed 27 Aug 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 29: UEFA Champions League| Club Brugge vs. Rangers (Commentaires en Francais)| Wed 27 Aug 09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626643.ts
-#EXTINF:-1 tvg-id="cadazn30" tvg-name="CA-DAZN 30" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 30
+#EXTINF:-1 tvg-id="cadazn30leaguecupgrimsbyvsmanunitedwed27aug0900vn" tvg-name="CA-DAZN 30: League Cup| Grimsby vs. Man United| Wed 27 Aug 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 30: League Cup| Grimsby vs. Man United| Wed 27 Aug 09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626644.ts
-#EXTINF:-1 tvg-id="cadazn31" tvg-name="CA-DAZN 31" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 31
+#EXTINF:-1 tvg-id="cadazn31fibaeurobasketgeorgiavsspainthu28aug1400vn" tvg-name="CA-DAZN 31: FIBA EuroBasket| Georgia vs. Spain| Thu 28 Aug 14:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 31: FIBA EuroBasket| Georgia vs. Spain| Thu 28 Aug 14:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626645.ts
-#EXTINF:-1 tvg-id="cadazn32" tvg-name="CA-DAZN 32" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 32
+#EXTINF:-1 tvg-id="cadazn32fibaeurobasketisraelvsicelandthu28aug1400vn" tvg-name="CA-DAZN 32: FIBA EuroBasket| Israel vs. Iceland| Thu 28 Aug 14:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 32: FIBA EuroBasket| Israel vs. Iceland| Thu 28 Aug 14:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626646.ts
-#EXTINF:-1 tvg-id="cadazn33" tvg-name="CA-DAZN 33" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 33
+#EXTINF:-1 tvg-id="cadazn33fiaworldrallychampionshipuenorallydelparaguayshakedownthu28aug1401vn" tvg-name="CA-DAZN 33: FIA World Rally Championship| ueno Rally del Paraguay: Shakedown| Thu 28 Aug 14:01 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 33: FIA World Rally Championship| ueno Rally del Paraguay: Shakedown| Thu 28 Aug 14:01 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626647.ts
-#EXTINF:-1 tvg-id="cadazn34" tvg-name="CA-DAZN 34" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 34
+#EXTINF:-1 tvg-id="cadazn34fibaeurobasketbelgiumvsfrancethu28aug1700vn" tvg-name="CA-DAZN 34: FIBA EuroBasket| Belgium vs. France| Thu 28 Aug 17:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 34: FIBA EuroBasket| Belgium vs. France| Thu 28 Aug 17:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626648.ts
-#EXTINF:-1 tvg-id="cadazn35" tvg-name="CA-DAZN 35" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 35
+#EXTINF:-1 tvg-id="cadazn35fibaeurobasketbosnia_herzegovinavscyprusthu28aug1715vn" tvg-name="CA-DAZN 35: FIBA EuroBasket| Bosnia_Herzegovina vs. Cyprus| Thu 28 Aug 17:15 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 35: FIBA EuroBasket| Bosnia_Herzegovina vs. Cyprus| Thu 28 Aug 17:15 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626649.ts
-#EXTINF:-1 tvg-id="cadazn36" tvg-name="CA-DAZN 36" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 36
+#EXTINF:-1 tvg-id="cadazn36uefachampionsleagueleaguephasedrawthu28aug1800vn" tvg-name="CA-DAZN 36: UEFA Champions League| League Phase Draw| Thu 28 Aug 18:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 36: UEFA Champions League| League Phase Draw| Thu 28 Aug 18:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626650.ts
-#EXTINF:-1 tvg-id="cadazn37" tvg-name="CA-DAZN 37" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 37
+#EXTINF:-1 tvg-id="cadazn37fibaeurobasketgreecevsitalythu28aug0830vn" tvg-name="CA-DAZN 37: FIBA EuroBasket| Greece vs. Italy| Thu 28 Aug 08:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 37: FIBA EuroBasket| Greece vs. Italy| Thu 28 Aug 08:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626651.ts
-#EXTINF:-1 tvg-id="cadazn38" tvg-name="CA-DAZN 38" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 38
+#EXTINF:-1 tvg-id="cadazn38fibaeurobasketsloveniavspolandthu28aug0830vn" tvg-name="CA-DAZN 38: FIBA EuroBasket| Slovenia vs. Poland| Thu 28 Aug 08:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 38: FIBA EuroBasket| Slovenia vs. Poland| Thu 28 Aug 08:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626652.ts
-#EXTINF:-1 tvg-id="cadazn39" tvg-name="CA-DAZN 39" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 39
+#EXTINF:-1 tvg-id="cadazn39fiaworldrallychampionshipuenorallydelparaguaymeetgreet_preshowandceremonialstartthu28aug1130vn" tvg-name="CA-DAZN 39: FIA World Rally Championship| ueno Rally del Paraguay: Meet & Greet_ Pre Show and Ceremonial Start| Thu 28 Aug 11:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 39: FIA World Rally Championship| ueno Rally del Paraguay: Meet & Greet_ Pre Show and Ceremonial Start| Thu 28 Aug 11:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626653.ts
+#EXTINF:-1 tvg-id="cadazn3fibaamericuppanamavsvenezuelamon25aug0910vn" tvg-name="CA-DAZN 3: FIBA AmeriCup| Panama vs. Venezuela| Mon 25 Aug 09:10 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 3: FIBA AmeriCup| Panama vs. Venezuela| Mon 25 Aug 09:10 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626617.ts
 #EXTINF:-1 tvg-id="cadazn40" tvg-name="CA-DAZN 40" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 40
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626654.ts
 #EXTINF:-1 tvg-id="cadazn41" tvg-name="CA-DAZN 41" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 41
@@ -3871,8 +3879,20 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/626661.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626662.ts
 #EXTINF:-1 tvg-id="cadazn49" tvg-name="CA-DAZN 49" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 49
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626663.ts
+#EXTINF:-1 tvg-id="cadazn4fibaamericupargentinavscolombiamon25aug1140vn" tvg-name="CA-DAZN 4: FIBA AmeriCup| Argentina vs. Colombia| Mon 25 Aug 11:40 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 4: FIBA AmeriCup| Argentina vs. Colombia| Mon 25 Aug 11:40 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626618.ts
 #EXTINF:-1 tvg-id="cadazn50" tvg-name="CA-DAZN 50" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 50
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626664.ts
+#EXTINF:-1 tvg-id="cadazn5fibaamericupdominicanrepublicvsnicaraguamon25aug1440vn" tvg-name="CA-DAZN 5: FIBA AmeriCup| Dominican Republic vs. Nicaragua| Mon 25 Aug 14:40 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 5: FIBA AmeriCup| Dominican Republic vs. Nicaragua| Mon 25 Aug 14:40 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626619.ts
+#EXTINF:-1 tvg-id="cadazn6fibaamericupcanadavspuertoricomon25aug1710vn" tvg-name="CA-DAZN 6: FIBA AmeriCup| Canada vs. Puerto Rico| Mon 25 Aug 17:10 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 6: FIBA AmeriCup| Canada vs. Puerto Rico| Mon 25 Aug 17:10 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626620.ts
+#EXTINF:-1 tvg-id="cadazn7uefachampionsleaguekairatvsceltictue26aug1845vn" tvg-name="CA-DAZN 7: UEFA Champions League| Kairat vs. Celtic| Tue 26 Aug 18:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 7: UEFA Champions League| Kairat vs. Celtic| Tue 26 Aug 18:45 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626621.ts
+#EXTINF:-1 tvg-id="cadazn8uefachampionsleaguekairatvscelticcommentairesenfrancaistue26aug1845vn" tvg-name="CA-DAZN 8: UEFA Champions League| Kairat vs. Celtic (Commentaires en Francais)| Tue 26 Aug 18:45 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 8: UEFA Champions League| Kairat vs. Celtic (Commentaires en Francais)| Tue 26 Aug 18:45 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626622.ts
+#EXTINF:-1 tvg-id="cadazn9" tvg-name="CA-DAZN 9" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNCA.png" group-title="SPORTS | DAZN CA/UK/US",CA-DAZN 9
+http://tv.8dott.xyz:80/live/samuel/samuel123456/626623.ts
 #EXTINF:-1 tvg-id="gbdazn16legaserieaudinesevshellasveronamon25aug1130vn" tvg-name="GB-DAZN 16: Lega Serie A| Udinese vs. Hellas Verona| Mon 25 Aug 11:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNUKK.png" group-title="SPORTS | DAZN CA/UK/US",GB-DAZN 16: Lega Serie A| Udinese vs. Hellas Verona| Mon 25 Aug 11:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/626902.ts
 #EXTINF:-1 tvg-id="gbdazn17dazntransferbyfabrizioromano_25augustmon25aug1330vn" tvg-name="GB-DAZN 17: DAZN Transfer by Fabrizio Romano _ 25 August| Mon 25 Aug 13:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/06/DAZNUKK.png" group-title="SPORTS | DAZN CA/UK/US",GB-DAZN 17: DAZN Transfer by Fabrizio Romano _ 25 August| Mon 25 Aug 13:30 (VN)
