@@ -863,13 +863,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239013.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239032.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvfswfswfutureshock2025august30thsat30aug0400vn" tvg-name="Fite TV 9 HD (D): TrillerTV-FSW FSW: Future Shock 2025, August 30th - Sat,30 Aug 04:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-FSW FSW: Future Shock 2025, August 30th - Sat,30 Aug 04:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 -NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 -NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent03122vnpmglory103" tvg-name="LIVE EVENT 03 - 12/2 (VN)PM Glory 103" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - 12/2 (VN)PM Glory 103
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
-#EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent049pmkubotahighlimitracingdouglas" tvg-name="LIVE EVENT 04 - 9PM Kubota High Limit Racing Douglas" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - 9PM Kubota High Limit Racing Douglas
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
 #EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
