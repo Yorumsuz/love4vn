@@ -451,7 +451,7 @@ http://groundhogday.in:80/live/Jok123/Jok123/7353761.ts
 http://groundhogday.in:80/live/Jok123/Jok123/7353760.ts
 #EXTINF:-1 tvg-id="footballevent99" tvg-name="Football Event 99:" tvg-logo="" group-title="International Football Events",Football Event 99:
 http://groundhogday.in:80/live/Jok123/Jok123/7353759.ts
-#EXTINF:-1 tvg-id="es010030vnathleticclubvsrayovallecano0230vnsevillavsgetafe" tvg-name="ES01: 00:30 (VN) Athletic Club vs Rayo Vallecano // 02:30 (VN) Sevilla vs Getafe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES01: 00:30 (VN) Athletic Club vs Rayo Vallecano // 02:30 (VN) Sevilla vs Getafe
+#EXTINF:-1 tvg-id="es010200vnceltadevigovsrealbetis" tvg-name="ES01: 02:00 (VN) Celta de Vigo vs Real Betis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES01: 02:00 (VN) Celta de Vigo vs Real Betis
 http://groundhogday.in:80/live/Jok123/Jok123/3475825.ts
 #EXTINF:-1 tvg-id="es02" tvg-name="ES02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES02:
 http://groundhogday.in:80/live/Jok123/Jok123/3475826.ts
@@ -857,7 +857,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent03" tvg-name="LIVE EVENT 03 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
-#EXTINF:-1 tvg-id="liveevent049pmkubotahighlimitracingdouglas" tvg-name="LIVE EVENT 04 - 9PM Kubota High Limit Racing Douglas" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - 9PM Kubota High Limit Racing Douglas
+#EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
 #EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
