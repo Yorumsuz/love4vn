@@ -767,7 +767,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/426728.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/426727.ts
 #EXTINF:-1 tvg-id="hubpremier9fhd" tvg-name="Hub Premier 9 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" group-title="LIVE | Hub Premier (EPL)",Hub Premier 9 FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/426726.ts
-#EXTINF:-1 tvg-id="athleticclubmon0030vn" tvg-name="ATHLETIC CLUB (Mon 00:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Athletic-Bilbao.png" group-title="LIVE | La Liga Hub",ATHLETIC CLUB (Mon 00:30 (VN))
+#EXTINF:-1 tvg-id="athleticclubmatchtimeonly" tvg-name="ATHLETIC CLUB (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Athletic-Bilbao.png" group-title="LIVE | La Liga Hub",ATHLETIC CLUB (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837872.ts
 #EXTINF:-1 tvg-id="atleticodemadridmatchtimeonly" tvg-name="ATLETICO DE MADRID (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Atletico-Madrid.png" group-title="LIVE | La Liga Hub",ATLETICO DE MADRID (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837871.ts
@@ -779,7 +779,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/837873.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837865.ts
 #EXTINF:-1 tvg-id="fcbarcelonamatchtimeonly" tvg-name="FC BARCELONA (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/FC-Barcelona.png" group-title="LIVE | La Liga Hub",FC BARCELONA (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837870.ts
-#EXTINF:-1 tvg-id="getafecfmon0230vn" tvg-name="GETAFE CF (Mon 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Getafe-CF.png" group-title="LIVE | La Liga Hub",GETAFE CF (Mon 02:30 (VN))
+#EXTINF:-1 tvg-id="getafecfmatchtimeonly" tvg-name="GETAFE CF (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Getafe-CF.png" group-title="LIVE | La Liga Hub",GETAFE CF (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837867.ts
 #EXTINF:-1 tvg-id="gironafcmatchtimeonly" tvg-name="GIRONA FC (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Girona-FC.png" group-title="LIVE | La Liga Hub",GIRONA FC (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837866.ts
