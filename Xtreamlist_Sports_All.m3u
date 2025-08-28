@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="foot010130vnvsaberdeen" tvg-name="FOOT 01: 01:30 (VN) vs Aberdeen" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 01: 01:30 (VN) vs Aberdeen
 http://groundhogday.in:80/live/Jok123/Jok123/3475834.ts
-#EXTINF:-1 tvg-id="foot022300vnfredrikstadvscrystalpalace" tvg-name="FOOT 02: 23:00 (VN) Fredrikstad vs Crystal Palace" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 02: 23:00 (VN) Fredrikstad vs Crystal Palace
+#EXTINF:-1 tvg-id="foot02" tvg-name="FOOT 02:" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 02:
 http://groundhogday.in:80/live/Jok123/Jok123/3475835.ts
 #EXTINF:-1 tvg-id="foot030145vnlinfieldvsshelbourne" tvg-name="FOOT 03: 01:45 (VN) Linfield vs Shelbourne" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 03: 01:45 (VN) Linfield vs Shelbourne
 http://groundhogday.in:80/live/Jok123/Jok123/3475836.ts
@@ -451,7 +451,7 @@ http://groundhogday.in:80/live/Jok123/Jok123/7353761.ts
 http://groundhogday.in:80/live/Jok123/Jok123/7353760.ts
 #EXTINF:-1 tvg-id="footballevent99" tvg-name="Football Event 99:" tvg-logo="" group-title="International Football Events",Football Event 99:
 http://groundhogday.in:80/live/Jok123/Jok123/7353759.ts
-#EXTINF:-1 tvg-id="es01" tvg-name="ES01:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES01:
+#EXTINF:-1 tvg-id="es010030vnelchevslevante0230vnvalenciavsgetafe" tvg-name="ES01: 00:30 (VN) Elche vs Levante // 02:30 (VN) Valencia vs Getafe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES01: 00:30 (VN) Elche vs Levante // 02:30 (VN) Valencia vs Getafe
 http://groundhogday.in:80/live/Jok123/Jok123/3475825.ts
 #EXTINF:-1 tvg-id="es02" tvg-name="ES02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES02:
 http://groundhogday.in:80/live/Jok123/Jok123/3475826.ts
@@ -1479,7 +1479,7 @@ http://groundhogday.in:80/live/Jok123/Jok123/1123431.ts
 http://groundhogday.in:80/live/Jok123/Jok123/7344510.ts
 #EXTINF:-1 tvg-id="ws32" tvg-name="WS 32:" tvg-logo="" group-title="World Sport Events",WS 32:
 http://groundhogday.in:80/live/Jok123/Jok123/5620898.ts
-#EXTINF:-1 tvg-id="ws01" tvg-name="WS01:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS01:
+#EXTINF:-1 tvg-id="ws012025fladersdartstrophydayone1800vn" tvg-name="WS01: 2025 Fladers Darts Trophy - Day One 18:00 (VN)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS01: 2025 Fladers Darts Trophy - Day One 18:00 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1008004.ts
 #EXTINF:-1 tvg-id="ws02" tvg-name="WS02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS02:
 http://groundhogday.in:80/live/Jok123/Jok123/1008003.ts
