@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="foot01" tvg-name="FOOT 01:" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 01:
+#EXTINF:-1 tvg-id="foot01milangame" tvg-name="FOOT 01: Milan game" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 01: Milan game
 http://groundhogday.in:80/live/Jok123/Jok123/3475834.ts
 #EXTINF:-1 tvg-id="foot02" tvg-name="FOOT 02:" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 02:
 http://groundhogday.in:80/live/Jok123/Jok123/3475835.ts
@@ -865,7 +865,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239036.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
 #EXTINF:-1 tvg-id="fitetv7hddtrillertvbkfcbkfcfightnightbudva2025vasobakocevicvswilhelmottsat30aug2000vn" tvg-name="Fite TV 7 HD (D): TrillerTV-BKFC BKFC Fight Night Budva 2025: Vaso Bakocevic vs Wilhelm Ott - Sat,30 Aug 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite7.png" group-title="LIVE | PPV Events",Fite TV 7 HD (D): TrillerTV-BKFC BKFC Fight Night Budva 2025: Vaso Bakocevic vs Wilhelm Ott - Sat,30 Aug 20:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239010.ts
-#EXTINF:-1 tvg-id="liveevent011430vnonefridayfights122panpayakv" tvg-name="LIVE EVENT 01 - 14:30 (VN) One Friday Fights 122 Panpayak v" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 14:30 (VN) One Friday Fights 122 Panpayak v
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent023pmhexagonesables" tvg-name="LIVE EVENT 02 - 3PM Hexagone Sables" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 3PM Hexagone Sables
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
