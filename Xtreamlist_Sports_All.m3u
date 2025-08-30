@@ -319,7 +319,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239010.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
 #EXTINF:-1 tvg-id="liveevent011pmxseries22tillvrockhold" tvg-name="LIVE EVENT 01 - 1PM X Series 22 Till v Rockhold" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 1PM X Series 22 Till v Rockhold
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent022pmbkfcfightnightbudva" tvg-name="LIVE EVENT 02 - 2PM BKFC Fight Night Budva" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 2PM BKFC Fight Night Budva
+#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent03" tvg-name="LIVE EVENT 03 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
@@ -327,7 +327,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
 #EXTINF:-1 tvg-id="liveevent0511amamericanflattrackspringfieldmile" tvg-name="LIVE EVENT 05 - 11AM American Flat Track Springfield Mile" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 11AM American Flat Track Springfield Mile
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
-#EXTINF:-1 tvg-id="liveevent061915vnusactedhorn100duquoin" tvg-name="LIVE EVENT 06 - 19:15 (VN) USAC Ted Horn 100 Du Quoin" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 19:15 (VN) USAC Ted Horn 100 Du Quoin
+#EXTINF:-1 tvg-id="liveevent06noevent" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
 #EXTINF:-1 tvg-id="liveevent072050vnpolarisworldchampionships" tvg-name="LIVE EVENT 07 - 20:50 (VN) Polaris World Championships" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - 20:50 (VN) Polaris World Championships
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174935.ts
