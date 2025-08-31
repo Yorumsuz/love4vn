@@ -317,9 +317,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239014.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 #EXTINF:-1 tvg-id="fitetv8hddtrillertvbkfcthebareknuckleshowwithbriansosciaseason2episode115tue02sep1805vn" tvg-name="Fite TV 8 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 115 - Tue,02 Sep 18:05 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite8.png" group-title="LIVE | PPV Events",Fite TV 8 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 115 - Tue,02 Sep 18:05 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239032.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent0211amamericanflattrackspringfieldmile" tvg-name="LIVE EVENT 02 - 11AM American Flat Track Springfield Mile" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 11AM American Flat Track Springfield Mile
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent03" tvg-name="LIVE EVENT 03 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
