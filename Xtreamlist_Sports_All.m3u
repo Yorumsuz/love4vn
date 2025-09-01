@@ -353,9 +353,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239010.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvdexcondxcndakila2025sat06sep2300vn" tvg-name="Fite TV 9 HD (D): TrillerTV-Dexcon DXCN: Dakila 2025 - Sat,06 Sep 23:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-Dexcon DXCN: Dakila 2025 - Sat,06 Sep 23:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent0212pmlabordayclassicportroyal" tvg-name="LIVE EVENT 02 - 12PM Labor Day Classic Port Royal" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 12PM Labor Day Classic Port Royal
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent03" tvg-name="LIVE EVENT 03 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
@@ -387,7 +385,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239245.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233877.ts
 #EXTINF:-1 tvg-id="liveevent17noevent" tvg-name="LIVE EVENT 17 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent17.png" group-title="LIVE | PPV Events",LIVE EVENT 17 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233878.ts
-#EXTINF:-1 tvg-id="liveevent188pmlouievermeilclassiccalistoga" tvg-name="LIVE EVENT 18 - 8PM Louie Vermeil Classic Calistoga" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - 8PM Louie Vermeil Classic Calistoga
+#EXTINF:-1 tvg-id="liveevent18noevent" tvg-name="LIVE EVENT 18 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233879.ts
 #EXTINF:-1 tvg-id="liveevent19noevent" tvg-name="LIVE EVENT 19 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent19.png" group-title="LIVE | PPV Events",LIVE EVENT 19 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233880.ts
