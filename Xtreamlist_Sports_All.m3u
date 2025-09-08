@@ -131,66 +131,64 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256510.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256512.ts
 #EXTINF:-1 tvg-id="wolverhamptonwanderersfcmatchtimeonly" tvg-name="WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Wolves.png" group-title="LIVE | EPL Hub",WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256513.ts
-#EXTINF:-1 tvg-id="01fifaqualifiergeorgiavsbulgariasun2000vn" tvg-name="01. FIFA Qualifier | Georgia vs Bulgaria (Sun 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events",01. FIFA Qualifier | Georgia vs Bulgaria (Sun 20:00 (VN))
+#EXTINF:-1 tvg-id="01fifaqualifierequatorialguineavstunisiamon2000vn" tvg-name="01. FIFA Qualifier | Equatorial Guinea vs Tunisia (Mon 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events",01. FIFA Qualifier | Equatorial Guinea vs Tunisia (Mon 20:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174949.ts
-#EXTINF:-1 tvg-id="02fifaqualifiergeorgiavsbulgariasun2000vn" tvg-name="02. FIFA Qualifier | Georgia vs Bulgaria (Sun 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events",02. FIFA Qualifier | Georgia vs Bulgaria (Sun 20:00 (VN))
+#EXTINF:-1 tvg-id="02fifaqualifiermozambiquevsbotswanamon2000vn" tvg-name="02. FIFA Qualifier | Mozambique vs Botswana (Mon 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events",02. FIFA Qualifier | Mozambique vs Botswana (Mon 20:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174952.ts
-#EXTINF:-1 tvg-id="03fifaqualifiercentralafricanrepublicvscomorossun2300vn" tvg-name="03. FIFA Qualifier | Central African Republic vs Comoros (Sun 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events",03. FIFA Qualifier | Central African Republic vs Comoros (Sun 23:00 (VN))
+#EXTINF:-1 tvg-id="03fifaqualifierzambiavsmoroccomon2000vn" tvg-name="03. FIFA Qualifier | Zambia vs Morocco (Mon 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events",03. FIFA Qualifier | Zambia vs Morocco (Mon 20:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174938.ts
-#EXTINF:-1 tvg-id="04fifaqualifierlithuaniavsnetherlandssun2300vn" tvg-name="04. FIFA Qualifier | Lithuania vs Netherlands (Sun 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events",04. FIFA Qualifier | Lithuania vs Netherlands (Sun 23:00 (VN))
+#EXTINF:-1 tvg-id="04fifaqualifierguineavsalgeriamon2300vn" tvg-name="04. FIFA Qualifier | Guinea vs Algeria (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events",04. FIFA Qualifier | Guinea vs Algeria (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174939.ts
-#EXTINF:-1 tvg-id="05fifaqualifierlithuaniavsnetherlandssun2300vn" tvg-name="05. FIFA Qualifier | Lithuania vs Netherlands (Sun 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events",05. FIFA Qualifier | Lithuania vs Netherlands (Sun 23:00 (VN))
+#EXTINF:-1 tvg-id="05fifaqualifierguineabissauvsdjiboutimon2300vn" tvg-name="05. FIFA Qualifier | Guinea-Bissau vs Djibouti (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events",05. FIFA Qualifier | Guinea-Bissau vs Djibouti (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174940.ts
-#EXTINF:-1 tvg-id="06fifaqualifierlithuaniavsnetherlandssun2300vn" tvg-name="06. FIFA Qualifier | Lithuania vs Netherlands (Sun 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events",06. FIFA Qualifier | Lithuania vs Netherlands (Sun 23:00 (VN))
+#EXTINF:-1 tvg-id="06fifaqualifiermadagascarvschadmon2300vn" tvg-name="06. FIFA Qualifier | Madagascar vs Chad (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events",06. FIFA Qualifier | Madagascar vs Chad (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174941.ts
-#EXTINF:-1 tvg-id="07fifaqualifiernorthmacedoniavsliechtensteinsun2300vn" tvg-name="07. FIFA Qualifier | North Macedonia vs Liechtenstein (Sun 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events",07. FIFA Qualifier | North Macedonia vs Liechtenstein (Sun 23:00 (VN))
+#EXTINF:-1 tvg-id="07fifaqualifiermalawivsliberiamon2300vn" tvg-name="07. FIFA Qualifier | Malawi vs Liberia (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events",07. FIFA Qualifier | Malawi vs Liberia (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174951.ts
-#EXTINF:-1 tvg-id="08fifaqualifiernorthmacedoniavsliechtensteinsun2300vn" tvg-name="08. FIFA Qualifier | North Macedonia vs Liechtenstein (Sun 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events",08. FIFA Qualifier | North Macedonia vs Liechtenstein (Sun 23:00 (VN))
+#EXTINF:-1 tvg-id="08fifaqualifierugandavssomaliamon2300vn" tvg-name="08. FIFA Qualifier | Uganda vs Somalia (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events",08. FIFA Qualifier | Uganda vs Somalia (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174950.ts
-#EXTINF:-1 tvg-id="11fifaqualifiergermanyvsnorthernirelandsun0145vn" tvg-name="11. FIFA Qualifier | Germany vs Northern Ireland (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events",11. FIFA Qualifier | Germany vs Northern Ireland (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="09fifaqualifierbelarusvsscotlandmon0145vn" tvg-name="09. FIFA Qualifier | Belarus vs Scotland (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events",09. FIFA Qualifier | Belarus vs Scotland (Mon 01:45 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/174948.ts
+#EXTINF:-1 tvg-id="10fifaqualifierbelarusvsscotlandmon0145vn" tvg-name="10. FIFA Qualifier | Belarus vs Scotland (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events",10. FIFA Qualifier | Belarus vs Scotland (Mon 01:45 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/174947.ts
+#EXTINF:-1 tvg-id="11fifaqualifierbelarusvsscotlandmon0145vn" tvg-name="11. FIFA Qualifier | Belarus vs Scotland (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events",11. FIFA Qualifier | Belarus vs Scotland (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174946.ts
-#EXTINF:-1 tvg-id="12fifaqualifiergermanyvsnorthernirelandsun0145vn" tvg-name="12. FIFA Qualifier | Germany vs Northern Ireland (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events",12. FIFA Qualifier | Germany vs Northern Ireland (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="12fifaqualifiercroatiavsmontenegromon0145vn" tvg-name="12. FIFA Qualifier | Croatia vs Montenegro (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events",12. FIFA Qualifier | Croatia vs Montenegro (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174945.ts
-#EXTINF:-1 tvg-id="13fifaqualifiergermanyvsnorthernirelandsun0145vn" tvg-name="13. FIFA Qualifier | Germany vs Northern Ireland (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events",13. FIFA Qualifier | Germany vs Northern Ireland (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="13fifaqualifiercroatiavsmontenegromon0145vn" tvg-name="13. FIFA Qualifier | Croatia vs Montenegro (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events",13. FIFA Qualifier | Croatia vs Montenegro (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174944.ts
-#EXTINF:-1 tvg-id="14fifaqualifierluxembourgvsslovakiasun0145vn" tvg-name="14. FIFA Qualifier | Luxembourg vs Slovakia (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events",14. FIFA Qualifier | Luxembourg vs Slovakia (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="14fifaqualifiergibraltarvsfaroeislandsmon0145vn" tvg-name="14. FIFA Qualifier | Gibraltar vs Faroe Islands (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events",14. FIFA Qualifier | Gibraltar vs Faroe Islands (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233895.ts
-#EXTINF:-1 tvg-id="15fifaqualifierpolandvsfinlandsun0145vn" tvg-name="15. FIFA Qualifier | Poland vs Finland (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events",15. FIFA Qualifier | Poland vs Finland (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="15fifaqualifiergibraltarvsfaroeislandsmon0145vn" tvg-name="15. FIFA Qualifier | Gibraltar vs Faroe Islands (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events",15. FIFA Qualifier | Gibraltar vs Faroe Islands (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233896.ts
-#EXTINF:-1 tvg-id="16fifaqualifierpolandvsfinlandsun0145vn" tvg-name="16. FIFA Qualifier | Poland vs Finland (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events",16. FIFA Qualifier | Poland vs Finland (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="16fifaqualifiergreecevsdenmarkmon0145vn" tvg-name="16. FIFA Qualifier | Greece vs Denmark (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events",16. FIFA Qualifier | Greece vs Denmark (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233897.ts
-#EXTINF:-1 tvg-id="17fifaqualifierturkiyevsspainsun0145vn" tvg-name="17. FIFA Qualifier | Turkiye vs Spain (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events",17. FIFA Qualifier | Turkiye vs Spain (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="17fifaqualifiergreecevsdenmarkmon0145vn" tvg-name="17. FIFA Qualifier | Greece vs Denmark (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events",17. FIFA Qualifier | Greece vs Denmark (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233898.ts
-#EXTINF:-1 tvg-id="18fifaqualifierturkiyevsspainsun0145vn" tvg-name="18. FIFA Qualifier | Turkiye vs Spain (Sun 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events",18. FIFA Qualifier | Turkiye vs Spain (Sun 01:45 (VN))
+#EXTINF:-1 tvg-id="18fifaqualifierisraelvsitalymon0145vn" tvg-name="18. FIFA Qualifier | Israel vs Italy (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events",18. FIFA Qualifier | Israel vs Italy (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233899.ts
-#EXTINF:-1 tvg-id="19footballnoevent" tvg-name="19. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events",19. Football | No Event
+#EXTINF:-1 tvg-id="19fifaqualifierisraelvsitalymon0145vn" tvg-name="19. FIFA Qualifier | Israel vs Italy (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events",19. FIFA Qualifier | Israel vs Italy (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233900.ts
-#EXTINF:-1 tvg-id="20footballnoevent" tvg-name="20. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events",20. Football | No Event
+#EXTINF:-1 tvg-id="20fifaqualifierisraelvsitalymon0145vn" tvg-name="20. FIFA Qualifier | Israel vs Italy (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events",20. FIFA Qualifier | Israel vs Italy (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233901.ts
-#EXTINF:-1 tvg-id="21footballnoevent" tvg-name="21. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events",21. Football | No Event
+#EXTINF:-1 tvg-id="21fifaqualifierkosovovsswedenmon0145vn" tvg-name="21. FIFA Qualifier | Kosovo vs Sweden (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events",21. FIFA Qualifier | Kosovo vs Sweden (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233902.ts
-#EXTINF:-1 tvg-id="22footballnoevent" tvg-name="22. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball22.png" group-title="LIVE | Football Events",22. Football | No Event
+#EXTINF:-1 tvg-id="22fifaqualifierkosovovsswedenmon0145vn" tvg-name="22. FIFA Qualifier | Kosovo vs Sweden (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball22.png" group-title="LIVE | Football Events",22. FIFA Qualifier | Kosovo vs Sweden (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233903.ts
-#EXTINF:-1 tvg-id="23footballnoevent" tvg-name="23. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball23.png" group-title="LIVE | Football Events",23. Football | No Event
+#EXTINF:-1 tvg-id="23fifaqualifierswitzerlandvssloveniamon0145vn" tvg-name="23. FIFA Qualifier | Switzerland vs Slovenia (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball23.png" group-title="LIVE | Football Events",23. FIFA Qualifier | Switzerland vs Slovenia (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233906.ts
-#EXTINF:-1 tvg-id="24footballnoevent" tvg-name="24. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball24.png" group-title="LIVE | Football Events",24. Football | No Event
+#EXTINF:-1 tvg-id="24fifaqualifierswitzerlandvssloveniamon0145vn" tvg-name="24. FIFA Qualifier | Switzerland vs Slovenia (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball24.png" group-title="LIVE | Football Events",24. FIFA Qualifier | Switzerland vs Slovenia (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233904.ts
-#EXTINF:-1 tvg-id="25footballnoevent" tvg-name="25. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball25.png" group-title="LIVE | Football Events",25. Football | No Event
+#EXTINF:-1 tvg-id="25fifaqualifierswitzerlandvssloveniamon0145vn" tvg-name="25. FIFA Qualifier | Switzerland vs Slovenia (Mon 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball25.png" group-title="LIVE | Football Events",25. FIFA Qualifier | Switzerland vs Slovenia (Mon 01:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233905.ts
-#EXTINF:-1 tvg-id="26footballnoevent" tvg-name="26. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball26.png" group-title="LIVE | Football Events",26. Football | No Event
+#EXTINF:-1 tvg-id="26fifaqualifierghanavsmalimon0200vn" tvg-name="26. FIFA Qualifier | Ghana vs Mali (Mon 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball26.png" group-title="LIVE | Football Events",26. FIFA Qualifier | Ghana vs Mali (Mon 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/255948.ts
-#EXTINF:-1 tvg-id="27footballnoevent" tvg-name="27. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball27.png" group-title="LIVE | Football Events",27. Football | No Event
+#EXTINF:-1 tvg-id="27fifaqualifierlibyavseswatinimon0200vn" tvg-name="27. FIFA Qualifier | Libya vs Eswatini (Mon 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball27.png" group-title="LIVE | Football Events",27. FIFA Qualifier | Libya vs Eswatini (Mon 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286956.ts
-#EXTINF:-1 tvg-id="28footballnoevent" tvg-name="28. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball28.png" group-title="LIVE | Football Events",28. Football | No Event
+#EXTINF:-1 tvg-id="28fifaqualifierelsalvadorvssurinametue0730vn" tvg-name="28. FIFA Qualifier | El Salvador vs Suriname (Tue 07:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball28.png" group-title="LIVE | Football Events",28. FIFA Qualifier | El Salvador vs Suriname (Tue 07:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286957.ts
-#EXTINF:-1 tvg-id="29footballnoevent" tvg-name="29. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball29.png" group-title="LIVE | Football Events",29. Football | No Event
+#EXTINF:-1 tvg-id="29fifaqualifierpanamavsguatemalatue0830vn" tvg-name="29. FIFA Qualifier | Panama vs Guatemala (Tue 08:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball29.png" group-title="LIVE | Football Events",29. FIFA Qualifier | Panama vs Guatemala (Tue 08:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286958.ts
-#EXTINF:-1 tvg-id="30footballnoevent" tvg-name="30. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball30.png" group-title="LIVE | Football Events",30. Football | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/286959.ts
-#EXTINF:-1 tvg-id="31footballnoevent" tvg-name="31. Football | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball31.png" group-title="LIVE | Football Events",31. Football | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697714.ts
-#EXTINF:-1 tvg-id="32footballnoevent" tvg-name="32. Football | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball32.png" group-title="LIVE | Football Events",32. Football | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697713.ts
 #EXTINF:-1 tvg-id="33footballnoevent" tvg-name="33. Football | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball33.png" group-title="LIVE | Football Events",33. Football | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697712.ts
 #EXTINF:-1 tvg-id="34footballnoevent" tvg-name="34. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball34.png" group-title="LIVE | Football Events",34. Football | No Event
@@ -345,15 +343,15 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239014.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239010.ts
 #EXTINF:-1 tvg-id="fitetv8hddtrillertvbkfcbkfc80hollywoodleonardoperdomovsarnoldadams2fri12sep0200vn" tvg-name="Fite TV 8 HD (D): TrillerTV-BKFC BKFC 80 Hollywood: Leonardo Perdomo vs Arnold Adams 2 - Fri,12 Sep 02:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite8.png" group-title="LIVE | PPV Events",Fite TV 8 HD (D): TrillerTV-BKFC BKFC 80 Hollywood: Leonardo Perdomo vs Arnold Adams 2 - Fri,12 Sep 02:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239032.ts
-#EXTINF:-1 tvg-id="liveevent0112pmwellandvherrera" tvg-name="LIVE EVENT 01 - 12PM Welland v Herrera" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 12PM Welland v Herrera
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 -NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 -NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
-#EXTINF:-1 tvg-id="liveevent032330vnfuryfc109" tvg-name="LIVE EVENT 03 - 23:30 (VN) Fury FC 109" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - 23:30 (VN) Fury FC 109
+#EXTINF:-1 tvg-id="liveevent03noevent" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
-#EXTINF:-1 tvg-id="liveevent040030vnwildthingkartseriesstafford" tvg-name="LIVE EVENT 04 - 00:30 (VN) Wild Thing Kart Series Stafford" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - 00:30 (VN) Wild Thing Kart Series Stafford
+#EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
-#EXTINF:-1 tvg-id="liveevent050030vnfallclashactiontrack" tvg-name="LIVE EVENT 05 - 00:30 (VN) Fall Clash Action Track" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 00:30 (VN) Fall Clash Action Track
+#EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
 #EXTINF:-1 tvg-id="liveevent06noevent" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
@@ -421,60 +419,58 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/701059.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/701060.ts
 #EXTINF:-1 tvg-id="tntsportsboxofficehd" tvg-name="TNT Sports Box Office HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/TNTSBO.png" group-title="LIVE | PPV Events",TNT Sports Box Office HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/701061.ts
-#EXTINF:-1 tvg-id="01tennischampionshipusopensun0100vn" tvg-name="01. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",01. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="01wtatoursaopaulomon2300vn" tvg-name="01. WTA Tour | Sao Paulo (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports1.png" group-title="LIVE | Sports Events",01. WTA Tour | Sao Paulo (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356436.ts
-#EXTINF:-1 tvg-id="02tennischampionshipusopensun0100vn" tvg-name="02. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",02. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="02wtatoursaopaulomon2300vn" tvg-name="02. WTA Tour | Sao Paulo (Mon 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events",02. WTA Tour | Sao Paulo (Mon 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356437.ts
-#EXTINF:-1 tvg-id="03tennischampionshipusopensun0100vn" tvg-name="03. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",03. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="03wtatourguadalajaramon0300vn" tvg-name="03. WTA Tour | Guadalajara (Mon 03:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events",03. WTA Tour | Guadalajara (Mon 03:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356438.ts
-#EXTINF:-1 tvg-id="04tennischampionshipusopensun0100vn" tvg-name="04. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",04. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="04wtatourguadalajaramon0300vn" tvg-name="04. WTA Tour | Guadalajara (Mon 03:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events",04. WTA Tour | Guadalajara (Mon 03:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356439.ts
-#EXTINF:-1 tvg-id="05tennischampionshipusopensun0100vn" tvg-name="05. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",05. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="05wtatourguadalajaramon0300vn" tvg-name="05. WTA Tour | Guadalajara (Mon 03:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events",05. WTA Tour | Guadalajara (Mon 03:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356440.ts
-#EXTINF:-1 tvg-id="06tennischampionshipusopensun0100vn" tvg-name="06. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",06. Tennis Championship | US Open (Sun 01:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356441.ts
-#EXTINF:-1 tvg-id="07tennischampionshipusopensun0100vn" tvg-name="07. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",07. Tennis Championship | US Open (Sun 01:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356442.ts
-#EXTINF:-1 tvg-id="08tennischampionshipusopensun0100vn" tvg-name="08. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",08. Tennis Championship | US Open (Sun 01:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356443.ts
-#EXTINF:-1 tvg-id="09tennischampionshipusopensun0100vn" tvg-name="09. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",09. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="09sportsnoevent" tvg-name="09. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events",09. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356444.ts
-#EXTINF:-1 tvg-id="10tennischampionshipusopensun0100vn" tvg-name="10. Tennis Championship | US Open (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/US-Open-1.png" group-title="LIVE | Sports Events",10. Tennis Championship | US Open (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="10sportsnoevent" tvg-name="10. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports10.png" group-title="LIVE | Sports Events",10. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356445.ts
-#EXTINF:-1 tvg-id="11lavueltastage15sun1950vn" tvg-name="11. La Vuelta | Stage 15 (Sun 19:50 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events",11. La Vuelta | Stage 15 (Sun 19:50 (VN))
+#EXTINF:-1 tvg-id="11sportsnoevent" tvg-name="11. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events",11. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356446.ts
-#EXTINF:-1 tvg-id="12lavueltastage15sun1950vn" tvg-name="12. La Vuelta | Stage 15 (Sun 19:50 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports12.png" group-title="LIVE | Sports Events",12. La Vuelta | Stage 15 (Sun 19:50 (VN))
+#EXTINF:-1 tvg-id="12sportsnoevent" tvg-name="12. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports12.png" group-title="LIVE | Sports Events",12. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356447.ts
-#EXTINF:-1 tvg-id="13cyclingtourofbritainsun1740vn" tvg-name="13. Cycling | Tour of Britain (Sun 17:40 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports13.png" group-title="LIVE | Sports Events",13. Cycling | Tour of Britain (Sun 17:40 (VN))
+#EXTINF:-1 tvg-id="13sportsnoevent" tvg-name="13. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports13.png" group-title="LIVE | Sports Events",13. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356448.ts
-#EXTINF:-1 tvg-id="14cyclingtourofbritainsun1740vn" tvg-name="14. Cycling | Tour of Britain (Sun 17:40 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports14.png" group-title="LIVE | Sports Events",14. Cycling | Tour of Britain (Sun 17:40 (VN))
+#EXTINF:-1 tvg-id="14sportsnoevent" tvg-name="14. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports14.png" group-title="LIVE | Sports Events",14. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356449.ts
-#EXTINF:-1 tvg-id="15premierpadelmadridsun1400vn" tvg-name="15. Premier Padel | Madrid (Sun 14:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events",15. Premier Padel | Madrid (Sun 14:00 (VN))
+#EXTINF:-1 tvg-id="15sportsnoevent" tvg-name="15. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events",15. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356450.ts
-#EXTINF:-1 tvg-id="16golfwalkercupsun2330vn" tvg-name="16. Golf | Walker Cup (Sun 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events",16. Golf | Walker Cup (Sun 23:30 (VN))
+#EXTINF:-1 tvg-id="16sportsnoevent" tvg-name="16. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events",16. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356451.ts
-#EXTINF:-1 tvg-id="17golfwalkercupsun2330vn" tvg-name="17. Golf | Walker Cup (Sun 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events",17. Golf | Walker Cup (Sun 23:30 (VN))
+#EXTINF:-1 tvg-id="17sportsnoevent" tvg-name="17. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events",17. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356452.ts
-#EXTINF:-1 tvg-id="18dpworldtouramgenirishopensun1830vn" tvg-name="18. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events",18. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))
+#EXTINF:-1 tvg-id="18sportsnoevent" tvg-name="18. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events",18. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356453.ts
-#EXTINF:-1 tvg-id="19dpworldtouramgenirishopensun1830vn" tvg-name="19. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events",19. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))
+#EXTINF:-1 tvg-id="19sportsnoevent" tvg-name="19. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events",19. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356454.ts
-#EXTINF:-1 tvg-id="20dpworldtouramgenirishopensun1830vn" tvg-name="20. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports20.png" group-title="LIVE | Sports Events",20. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))
+#EXTINF:-1 tvg-id="20sportsnoevent" tvg-name="20. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports20.png" group-title="LIVE | Sports Events",20. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356455.ts
-#EXTINF:-1 tvg-id="21dpworldtouramgenirishopensun1830vn" tvg-name="21. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports21.png" group-title="LIVE | Sports Events",21. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))
+#EXTINF:-1 tvg-id="21sportsnoevent" tvg-name="21. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports21.png" group-title="LIVE | Sports Events",21. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356456.ts
-#EXTINF:-1 tvg-id="22dpworldtouramgenirishopensun1830vn" tvg-name="22. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports22.png" group-title="LIVE | Sports Events",22. DP World Tour | Amgen Irish Open (Sun 18:30 (VN))
+#EXTINF:-1 tvg-id="22sportsnoevent" tvg-name="22. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports22.png" group-title="LIVE | Sports Events",22. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356457.ts
-#EXTINF:-1 tvg-id="23pgatourclassicstifelcharityclassicsun0200vn" tvg-name="23. PGA Tour Classic | Stifel Charity Classic (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events",23. PGA Tour Classic | Stifel Charity Classic (Sun 02:00 (VN))
+#EXTINF:-1 tvg-id="23sportsnoevent" tvg-name="23. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events",23. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356458.ts
-#EXTINF:-1 tvg-id="24pgatourclassicstifelcharityclassicsun0200vn" tvg-name="24. PGA Tour Classic | Stifel Charity Classic (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events",24. PGA Tour Classic | Stifel Charity Classic (Sun 02:00 (VN))
+#EXTINF:-1 tvg-id="24sportsnoevent" tvg-name="24. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events",24. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356459.ts
-#EXTINF:-1 tvg-id="25pgatourclassicstifelcharityclassicsun0200vn" tvg-name="25. PGA Tour Classic | Stifel Charity Classic (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events",25. PGA Tour Classic | Stifel Charity Classic (Sun 02:00 (VN))
+#EXTINF:-1 tvg-id="25sportsnoevent" tvg-name="25. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events",25. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356460.ts
-#EXTINF:-1 tvg-id="26letaramcohoustonchampionshipsun0000vn" tvg-name="26. LET | Aramco Houston Championship (Sun 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports26.png" group-title="LIVE | Sports Events",26. LET | Aramco Houston Championship (Sun 00:00 (VN))
+#EXTINF:-1 tvg-id="26sportsnoevent" tvg-name="26. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports26.png" group-title="LIVE | Sports Events",26. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356461.ts
-#EXTINF:-1 tvg-id="27letaramcohoustonchampionshipsun0000vn" tvg-name="27. LET | Aramco Houston Championship (Sun 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports27.png" group-title="LIVE | Sports Events",27. LET | Aramco Houston Championship (Sun 00:00 (VN))
+#EXTINF:-1 tvg-id="27sportsnoevent" tvg-name="27. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports27.png" group-title="LIVE | Sports Events",27. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356462.ts
+#EXTINF:-1 tvg-id="28sportsnoevent" tvg-name="28. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports28.png" group-title="LIVE | Sports Events",28. Sports | No Event
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356463.ts
+#EXTINF:-1 tvg-id="29sportsnoevent" tvg-name="29. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports29.png" group-title="LIVE | Sports Events",29. Sports | No Event
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356464.ts
 #EXTINF:-1 tvg-id="30sportsnoevent" tvg-name="30. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports30.png" group-title="LIVE | Sports Events",30. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356465.ts
 #EXTINF:-1 tvg-id="31sportsnoevent" tvg-name="31. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports31.png" group-title="LIVE | Sports Events",31. Sports | No Event
