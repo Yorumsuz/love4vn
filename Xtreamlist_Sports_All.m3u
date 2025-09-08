@@ -3205,9 +3205,17 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/842083.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/842084.ts
 #EXTINF:-1 tvg-id="nzskysportsselect" tvg-name="NZ | Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sports",NZ | Sky Sports Select
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697715.ts
-#EXTINF:-1 tvg-id="paramount05nationalwomenssoccerleaguechicagostarsfcvsorlandopridesep70900vn" tvg-name="Paramount+ 05 :National Women's Soccer League: Chicago Stars FC vs Orlando Pride @ Sep 7 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :National Women's Soccer League: Chicago Stars FC vs Orlando Pride @ Sep 7 09:00 (VN)
+#EXTINF:-1 tvg-id="paramount01moresoccerelsalvadorvssurinamesep81425vn" tvg-name="Paramount+ 01 :More Soccer: El Salvador vs Suriname @ Sep 8 14:25 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :More Soccer: El Salvador vs Suriname @ Sep 8 14:25 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941606.ts
+#EXTINF:-1 tvg-id="paramount02moresoccerpanamavsguatemalasep81525vn" tvg-name="Paramount+ 02 :More Soccer: Panama vs Guatemala @ Sep 8 15:25 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :More Soccer: Panama vs Guatemala @ Sep 8 15:25 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941605.ts
+#EXTINF:-1 tvg-id="paramount03" tvg-name="Paramount+ 03 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941604.ts
+#EXTINF:-1 tvg-id="paramount04" tvg-name="Paramount+ 04 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941603.ts
+#EXTINF:-1 tvg-id="paramount05" tvg-name="Paramount+ 05 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941602.ts
-#EXTINF:-1 tvg-id="paramount06nationalwomenssoccerleaguewashingtonspiritvsseattlereignfcsep71000vn" tvg-name="Paramount+ 06 :National Women's Soccer League: Washington Spirit vs Seattle Reign FC @ Sep 7 10:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :National Women's Soccer League: Washington Spirit vs Seattle Reign FC @ Sep 7 10:00 (VN)
+#EXTINF:-1 tvg-id="paramount06" tvg-name="Paramount+ 06 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941601.ts
 #EXTINF:-1 tvg-id="paramount07" tvg-name="Paramount+ 07 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941600.ts
