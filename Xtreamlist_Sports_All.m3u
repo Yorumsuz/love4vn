@@ -1,87 +1,89 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="01boxingcaneloalvarezvsterencecrawfordsat" tvg-name="01. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",01. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/878426.ts
+#EXTINF:-1 tvg-id="02boxingcaneloalvarezvsterencecrawfordsat" tvg-name="02. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",02. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/878425.ts
+#EXTINF:-1 tvg-id="03boxingcaneloalvarezvsterencecrawfordsat" tvg-name="03. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",03. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/878424.ts
+#EXTINF:-1 tvg-id="04boxingcaneloalvarezvsterencecrawfordsat" tvg-name="04. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",04. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/878423.ts
+#EXTINF:-1 tvg-id="05boxingcaneloalvarezvsterencecrawfordsat" tvg-name="05. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",05. BOXING: Canelo Alvarez vs. Terence Crawford (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/878422.ts
 #EXTINF:-1 tvg-id="01eplgoalrushmatchday2sat2100vn" tvg-name="01. EPL | Goal Rush Match Day # 2 (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events",01. EPL | Goal Rush Match Day # 2 (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713930.ts
 #EXTINF:-1 tvg-id="02eplgoalrushmatchday2sat2100vn" tvg-name="02. EPL | Goal Rush Match Day # 2 (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events",02. EPL | Goal Rush Match Day # 2 (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713931.ts
-#EXTINF:-1 tvg-id="03epl01noevent" tvg-name="03. EPL 01 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",03. EPL 01 | No Event
+#EXTINF:-1 tvg-id="03epl01arsenalvsnottinghamforestsat1830vn" tvg-name="03. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",03. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773560.ts
-#EXTINF:-1 tvg-id="04epl01noevent" tvg-name="04. EPL 01 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",04. EPL 01 | No Event
+#EXTINF:-1 tvg-id="04epl01arsenalvsnottinghamforestsat1830vn" tvg-name="04. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",04. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773561.ts
-#EXTINF:-1 tvg-id="05epl01noevent" tvg-name="05. EPL 01 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",05. EPL 01 | No Event
+#EXTINF:-1 tvg-id="05epl01arsenalvsnottinghamforestsat1830vn" tvg-name="05. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",05. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773562.ts
-#EXTINF:-1 tvg-id="06epl01noevent" tvg-name="06. EPL 01 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",06. EPL 01 | No Event
+#EXTINF:-1 tvg-id="06epl01arsenalvsnottinghamforestsat1830vn" tvg-name="06. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",06. EPL 01 | Arsenal vs Nottingham Forest (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773564.ts
-#EXTINF:-1 tvg-id="07epl02noevent" tvg-name="07. EPL 02 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",07. EPL 02 | No Event
+#EXTINF:-1 tvg-id="07epl02newcastleunitedvswolvessat2100vn" tvg-name="07. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",07. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773565.ts
-#EXTINF:-1 tvg-id="08epl02noevent" tvg-name="08. EPL 02 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",08. EPL 02 | No Event
+#EXTINF:-1 tvg-id="08epl02newcastleunitedvswolvessat2100vn" tvg-name="08. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",08. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773567.ts
-#EXTINF:-1 tvg-id="09epl02noevent" tvg-name="09. EPL 02 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",09. EPL 02 | No Event
+#EXTINF:-1 tvg-id="09epl02newcastleunitedvswolvessat2100vn" tvg-name="09. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",09. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773568.ts
-#EXTINF:-1 tvg-id="10epl02noevent" tvg-name="10. EPL 02 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",10. EPL 02 | No Event
+#EXTINF:-1 tvg-id="10epl02newcastleunitedvswolvessat2100vn" tvg-name="10. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",10. EPL 02 | Newcastle United vs Wolves (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/773569.ts
-#EXTINF:-1 tvg-id="11epl03noevent" tvg-name="11. EPL 03 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",11. EPL 03 | No Event
+#EXTINF:-1 tvg-id="11epl03evertonvsastonvillasat2100vn" tvg-name="11. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",11. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340373.ts
-#EXTINF:-1 tvg-id="12epl03noevent" tvg-name="12. EPL 03 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",12. EPL 03 | No Event
+#EXTINF:-1 tvg-id="12epl03evertonvsastonvillasat2100vn" tvg-name="12. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",12. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340374.ts
-#EXTINF:-1 tvg-id="13epl03noevent" tvg-name="13. EPL 03 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",13. EPL 03 | No Event
+#EXTINF:-1 tvg-id="13epl03evertonvsastonvillasat2100vn" tvg-name="13. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",13. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340375.ts
-#EXTINF:-1 tvg-id="14epl03noevent" tvg-name="14. EPL 03 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",14. EPL 03 | No Event
+#EXTINF:-1 tvg-id="14epl03evertonvsastonvillasat2100vn" tvg-name="14. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",14. EPL 03 | Everton vs Aston Villa (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340376.ts
-#EXTINF:-1 tvg-id="15epl04noevent" tvg-name="15. EPL 04 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",15. EPL 04 | No Event
+#EXTINF:-1 tvg-id="15epl04bournemouthvsbrightonsat2100vn" tvg-name="15. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",15. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340377.ts
-#EXTINF:-1 tvg-id="16epl04noevent" tvg-name="16. EPL 04 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",16. EPL 04 | No Event
+#EXTINF:-1 tvg-id="16epl04bournemouthvsbrightonsat2100vn" tvg-name="16. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",16. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340378.ts
-#EXTINF:-1 tvg-id="17epl04noevent" tvg-name="17. EPL 04 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",17. EPL 04 | No Event
+#EXTINF:-1 tvg-id="17epl04bournemouthvsbrightonsat2100vn" tvg-name="17. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",17. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340379.ts
-#EXTINF:-1 tvg-id="18epl04noevent" tvg-name="18. EPL 04 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",18. EPL 04 | No Event
+#EXTINF:-1 tvg-id="18epl04bournemouthvsbrightonsat2100vn" tvg-name="18. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",18. EPL 04 | Bournemouth vs Brighton (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340380.ts
-#EXTINF:-1 tvg-id="19epl05noevent" tvg-name="19. EPL 05 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",19. EPL 05 | No Event
+#EXTINF:-1 tvg-id="19epl05crystalpalacevssunderlandsat2100vn" tvg-name="19. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",19. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/340381.ts
-#EXTINF:-1 tvg-id="20epl05noevent" tvg-name="20. EPL 05 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",20. EPL 05 | No Event
+#EXTINF:-1 tvg-id="20epl05crystalpalacevssunderlandsat2100vn" tvg-name="20. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",20. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/405039.ts
-#EXTINF:-1 tvg-id="21epl05noevent" tvg-name="21. EPL 05 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",21. EPL 05 | No Event
+#EXTINF:-1 tvg-id="21epl05crystalpalacevssunderlandsat2100vn" tvg-name="21. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",21. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/405038.ts
-#EXTINF:-1 tvg-id="22epl05noevent" tvg-name="22. EPL 05 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",22. EPL 05 | No Event
+#EXTINF:-1 tvg-id="22epl05crystalpalacevssunderlandsat2100vn" tvg-name="22. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",22. EPL 05 | Crystal Palace vs Sunderland (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/405037.ts
-#EXTINF:-1 tvg-id="23epl06noevent" tvg-name="23. EPL 06 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",23. EPL 06 | No Event
+#EXTINF:-1 tvg-id="23epl06fulhamvsleedsunitedsat2100vn" tvg-name="23. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",23. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/405036.ts
-#EXTINF:-1 tvg-id="24epl06noevent" tvg-name="24. EPL 06 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",24. EPL 06 | No Event
+#EXTINF:-1 tvg-id="24epl06fulhamvsleedsunitedsat2100vn" tvg-name="24. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",24. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/405035.ts
-#EXTINF:-1 tvg-id="25epl06noevent" tvg-name="25. EPL 06 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",25. EPL 06 | No Event
+#EXTINF:-1 tvg-id="25epl06fulhamvsleedsunitedsat2100vn" tvg-name="25. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",25. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/405034.ts
-#EXTINF:-1 tvg-id="26epl06noevent" tvg-name="26. EPL 06 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",26. EPL 06 | No Event
+#EXTINF:-1 tvg-id="26epl06fulhamvsleedsunitedsat2100vn" tvg-name="26. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",26. EPL 06 | Fulham vs Leeds United (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437930.ts
-#EXTINF:-1 tvg-id="27epl07noevent" tvg-name="27. EPL 07 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",27. EPL 07 | No Event
+#EXTINF:-1 tvg-id="27epl07westhamvstottenhamsat2330vn" tvg-name="27. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",27. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437931.ts
-#EXTINF:-1 tvg-id="28epl07noevent" tvg-name="28. EPL 07 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",28. EPL 07 | No Event
+#EXTINF:-1 tvg-id="28epl07westhamvstottenhamsat2330vn" tvg-name="28. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",28. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437932.ts
-#EXTINF:-1 tvg-id="29epl07noevent" tvg-name="29. EPL 07 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",29. EPL 07 | No Event
+#EXTINF:-1 tvg-id="29epl07westhamvstottenhamsat2330vn" tvg-name="29. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",29. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437933.ts
-#EXTINF:-1 tvg-id="30epl07noevent" tvg-name="30. EPL 07 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",30. EPL 07 | No Event
+#EXTINF:-1 tvg-id="30epl07westhamvstottenhamsat2330vn" tvg-name="30. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",30. EPL 07 | West Ham vs Tottenham (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437934.ts
-#EXTINF:-1 tvg-id="31epl08noevent" tvg-name="31. EPL 08 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",31. EPL 08 | No Event
+#EXTINF:-1 tvg-id="31epl08brentfordvschelseasat0200vn" tvg-name="31. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",31. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437935.ts
-#EXTINF:-1 tvg-id="32epl08noevent" tvg-name="32. EPL 08 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",32. EPL 08 | No Event
+#EXTINF:-1 tvg-id="32epl08brentfordvschelseasat0200vn" tvg-name="32. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",32. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437936.ts
-#EXTINF:-1 tvg-id="33epl08noevent" tvg-name="33. EPL 08 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",33. EPL 08 | No Event
+#EXTINF:-1 tvg-id="33epl08brentfordvschelseasat0200vn" tvg-name="33. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",33. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437937.ts
-#EXTINF:-1 tvg-id="34epl08noevent" tvg-name="34. EPL 08 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",34. EPL 08 | No Event
+#EXTINF:-1 tvg-id="34epl08brentfordvschelseasat0200vn" tvg-name="34. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",34. EPL 08 | Brentford vs Chelsea (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/437938.ts
-#EXTINF:-1 tvg-id="35epl09noevent" tvg-name="35. EPL 09 | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",35. EPL 09 | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/437939.ts
-#EXTINF:-1 tvg-id="36epl09noevent" tvg-name="36. EPL 09 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",36. EPL 09 | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/713927.ts
-#EXTINF:-1 tvg-id="37epl09noevent" tvg-name="37. EPL 09 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",37. EPL 09 | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/713926.ts
-#EXTINF:-1 tvg-id="38epl09noevent" tvg-name="38. EPL 09 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",38. EPL 09 | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/713925.ts
-#EXTINF:-1 tvg-id="39epl10noevent" tvg-name="39. EPL 10 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",39. EPL 10 | No Event
+#EXTINF:-1 tvg-id="39epl10manchestercityvsmanchesterunitedsun2230vn" tvg-name="39. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",39. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713924.ts
-#EXTINF:-1 tvg-id="40epl10noevent" tvg-name="40. EPL 10 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",40. EPL 10 | No Event
+#EXTINF:-1 tvg-id="40epl10manchestercityvsmanchesterunitedsun2230vn" tvg-name="40. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",40. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713822.ts
-#EXTINF:-1 tvg-id="41epl10noevent" tvg-name="41. EPL 10 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",41. EPL 10 | No Event
+#EXTINF:-1 tvg-id="41epl10manchestercityvsmanchesterunitedsun2230vn" tvg-name="41. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",41. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713928.ts
-#EXTINF:-1 tvg-id="42epl10noevent" tvg-name="42. EPL 10 | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",42. EPL 10 | No Event
+#EXTINF:-1 tvg-id="42epl10manchestercityvsmanchesterunitedsun2230vn" tvg-name="42. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",42. EPL 10 | Manchester City vs Manchester United (Sun 22:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713929.ts
 #EXTINF:-1 tvg-id="afcbournemouthmatchtimeonly" tvg-name="A.F.C BOURNEMOUTH (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Bournemouth.png" group-title="LIVE | EPL Hub",A.F.C BOURNEMOUTH (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256492.ts
