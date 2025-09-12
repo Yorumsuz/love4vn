@@ -329,10 +329,10 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/396308.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/945352.ts
 #EXTINF:-1 tvg-id="thmonomaxpl247vn" tvg-name="TH | MonoMax PL 24/7 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 24/7 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697153.ts
-#EXTINF:-1 tvg-id="boxingeduardonunezvschristopherdiazsun0800vn" tvg-name="BOXING: Eduardo Nunez vs. Christopher Diaz (Sun 08:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/EduardoNunezvs.ChristopherDiaz.jpg" group-title="LIVE | PPV Events",BOXING: Eduardo Nunez vs. Christopher Diaz (Sun 08:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/323545.ts
-#EXTINF:-1 tvg-id="boxingpatmccormackvsmiguelparrasat2315vn" tvg-name="BOXING: Pat McCormack vs Miguel Parra (Sat 23:15 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/mccormack_parr.jpg" group-title="LIVE | PPV Events",BOXING: Pat McCormack vs Miguel Parra (Sat 23:15 (VN))
+#EXTINF:-1 tvg-id="boxingcaneloalvarezvsterencecrawfordsat" tvg-name="BOXING: Canelo Alvarez vs. Terence Crawford (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | PPV Events",BOXING: Canelo Alvarez vs. Terence Crawford (Sat)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323542.ts
+#EXTINF:-1 tvg-id="boxinglewiscrockervspaddydonovansat" tvg-name="BOXING: Lewis Crocker vs. Paddy Donovan (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/Lewis-Crocker-vs.-Paddy-Donovan.webp" group-title="LIVE | PPV Events",BOXING: Lewis Crocker vs. Paddy Donovan (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/323545.ts
 #EXTINF:-1 tvg-id="daznppvfhd" tvg-name="DAZN PPV FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events",DAZN PPV FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/847486.ts
 #EXTINF:-1 tvg-id="daznppvhd" tvg-name="DAZN PPV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events",DAZN PPV HD
@@ -347,7 +347,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239013.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvuaeproleagueuaeproleague202526aljaziravsalnasrsat13sep1530vn" tvg-name="Fite TV 9 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Jazira vs Al Nasr - Sat,13 Sep 15:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Jazira vs Al Nasr - Sat,13 Sep 15:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent011430vnonefridayfights124suriyanlekvdecho" tvg-name="LIVE EVENT 01 - 14:30 (VN) One Friday Fights 124 Suriyanlek v Decho" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 14:30 (VN) One Friday Fights 124 Suriyanlek v Decho
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent022pmthetruegritgames" tvg-name="LIVE EVENT 02 - 2PM The True Grit Games" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 2PM The True Grit Games
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
