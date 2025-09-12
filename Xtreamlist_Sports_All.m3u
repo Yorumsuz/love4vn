@@ -349,7 +349,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
 #EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent022pmthetruegritgames" tvg-name="LIVE EVENT 02 - 2PM The True Grit Games" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 2PM The True Grit Games
+#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent037pmbkfc80perdomovadams2" tvg-name="LIVE EVENT 03 - 7PM BKFC 80 Perdomo v Adams 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - 7PM BKFC 80 Perdomo v Adams 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
