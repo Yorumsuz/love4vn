@@ -347,51 +347,47 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239013.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvuaeproleagueuaeproleague202526aljaziravsalnasrsat13sep1530vn" tvg-name="Fite TV 9 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Jazira vs Al Nasr - Sat,13 Sep 15:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Jazira vs Al Nasr - Sat,13 Sep 15:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent025309vnpmcanelovcrawford" tvg-name="LIVE EVENT 02 - 5:30/9 (VN)PM Canelo v Crawford" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 5:30/9 (VN)PM Canelo v Crawford
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
-#EXTINF:-1 tvg-id="liveevent037pmbkfc80perdomovadams2" tvg-name="LIVE EVENT 03 - 7PM BKFC 80 Perdomo v Adams 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - 7PM BKFC 80 Perdomo v Adams 2
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
-#EXTINF:-1 tvg-id="liveevent058pmebi25thelightweights" tvg-name="LIVE EVENT 05 - 8PM EBI 25 The Lightweights" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 8PM EBI 25 The Lightweights
+#EXTINF:-1 tvg-id="liveevent041730vn2pmcrockervdonovan2" tvg-name="LIVE EVENT 04 - 17:30 (VN)/2PM Crocker v Donovan 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - 17:30 (VN)/2PM Crocker v Donovan 2
+http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
+#EXTINF:-1 tvg-id="liveevent0512pmruhevzugo" tvg-name="LIVE EVENT 05 - 12PM Ruhe v Zugo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 12PM Ruhe v Zugo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
-#EXTINF:-1 tvg-id="liveevent068pmgcwevildeeds" tvg-name="LIVE EVENT 06 - 8PM GCW Evil Deeds" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 8PM GCW Evil Deeds
+#EXTINF:-1 tvg-id="liveevent061pmbankvzeuge" tvg-name="LIVE EVENT 06 - 1PM Bank v Zeuge" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 1PM Bank v Zeuge
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
-#EXTINF:-1 tvg-id="liveevent079pmlfa217" tvg-name="LIVE EVENT 07 - 9PM LFA 217" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - 9PM LFA 217
+#EXTINF:-1 tvg-id="liveevent071930vntotalkombato2" tvg-name="LIVE EVENT 07 - 19:30 (VN) Total Kombat O2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - 19:30 (VN) Total Kombat O2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174935.ts
-#EXTINF:-1 tvg-id="liveevent0910pmfusionfightingchampionship95" tvg-name="LIVE EVENT 09 - 10PM Fusion Fighting Championship 95" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent9.png" group-title="LIVE | PPV Events",LIVE EVENT 09 - 10PM Fusion Fighting Championship 95
+#EXTINF:-1 tvg-id="liveevent085pmgcwrumbleontheriver" tvg-name="LIVE EVENT 08 - 5PM GCW Rumble on the River" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent8.png" group-title="LIVE | PPV Events",LIVE EVENT 08 - 5PM GCW Rumble on the River
+http://tv.8dott.xyz:80/live/samuel/samuel123456/174936.ts
+#EXTINF:-1 tvg-id="liveevent097pmcrashcombatchampionshipvithrallvestrada" tvg-name="LIVE EVENT 09 - 7PM Crash Combat Championship VI Thrall v Estrada" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent9.png" group-title="LIVE | PPV Events",LIVE EVENT 09 - 7PM Crash Combat Championship VI Thrall v Estrada
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174937.ts
-#EXTINF:-1 tvg-id="liveevent101430vnpdradragwars" tvg-name="LIVE EVENT 10 - 14:30 (VN) PDRA Drag Wars" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent10.png" group-title="LIVE | PPV Events",LIVE EVENT 10 - 14:30 (VN) PDRA Drag Wars
-http://tv.8dott.xyz:80/live/samuel/samuel123456/174933.ts
-#EXTINF:-1 tvg-id="liveevent1112pmsuperbikesmotoamericaattexas" tvg-name="LIVE EVENT 11 - 12PM Superbikes MotoAmerica at Texas" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent11.png" group-title="LIVE | PPV Events",LIVE EVENT 11 - 12PM Superbikes MotoAmerica at Texas
+#EXTINF:-1 tvg-id="liveevent110230vnshamrockfc368" tvg-name="LIVE EVENT 11 - 02:30 (VN) Shamrock FC 368" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent11.png" group-title="LIVE | PPV Events",LIVE EVENT 11 - 02:30 (VN) Shamrock FC 368
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233873.ts
-#EXTINF:-1 tvg-id="liveevent122330vntc13shootoutstafford" tvg-name="LIVE EVENT 12 - 23:30 (VN) TC 13 Shootout Stafford" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent12.png" group-title="LIVE | PPV Events",LIVE EVENT 12 - 23:30 (VN) TC 13 Shootout Stafford
+#EXTINF:-1 tvg-id="liveevent129pmbkbchingazos" tvg-name="LIVE EVENT 12 - 9PM BKB Chingazos" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent12.png" group-title="LIVE | PPV Events",LIVE EVENT 12 - 9PM BKB Chingazos
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233874.ts
-#EXTINF:-1 tvg-id="liveevent136pmkubotahighlimitracinglernerville" tvg-name="LIVE EVENT 13 - 6PM Kubota High Limit Racing Lernerville" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent13.png" group-title="LIVE | PPV Events",LIVE EVENT 13 - 6PM Kubota High Limit Racing Lernerville
+#EXTINF:-1 tvg-id="liveevent131430vnpdradragwars" tvg-name="LIVE EVENT 13 - 14:30 (VN) PDRA Drag Wars" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent13.png" group-title="LIVE | PPV Events",LIVE EVENT 13 - 14:30 (VN) PDRA Drag Wars
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233875.ts
-#EXTINF:-1 tvg-id="liveevent146pmshorttracksuperseriesfonda200" tvg-name="LIVE EVENT 14 - 6PM Short Track Super Series Fonda 200" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="LIVE | PPV Events",LIVE EVENT 14 - 6PM Short Track Super Series Fonda 200
+#EXTINF:-1 tvg-id="liveevent1410amsuperbikesmotoamericaattexas" tvg-name="LIVE EVENT 14 - 10AM Superbikes MotoAmerica at Texas" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="LIVE | PPV Events",LIVE EVENT 14 - 10AM Superbikes MotoAmerica at Texas
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233876.ts
-#EXTINF:-1 tvg-id="liveevent150015vnnapaascocjimfordclassicfremont" tvg-name="LIVE EVENT 15 - 00:15 (VN) NAPA ASCoC Jim Ford Classic Fremont" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent15.png" group-title="LIVE | PPV Events",LIVE EVENT 15 - 00:15 (VN) NAPA ASCoC Jim Ford Classic Fremont
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239245.ts
-#EXTINF:-1 tvg-id="liveevent160045vnworldofoutlawslatemodelsneedmore" tvg-name="LIVE EVENT 16 - 00:45 (VN) World of Outlaws Late Models Needmore" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - 00:45 (VN) World of Outlaws Late Models Needmore
+#EXTINF:-1 tvg-id="liveevent164pmamericanflattracklakeozark" tvg-name="LIVE EVENT 16 - 4PM American Flat Track Lake Ozark" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - 4PM American Flat Track Lake Ozark
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233877.ts
-#EXTINF:-1 tvg-id="liveevent170045vnusacnationalsprintscirclecity" tvg-name="LIVE EVENT 17 - 00:45 (VN) USAC National Sprints Circle City" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent17.png" group-title="LIVE | PPV Events",LIVE EVENT 17 - 00:45 (VN) USAC National Sprints Circle City
+#EXTINF:-1 tvg-id="liveevent172230vncarstoursouthboston" tvg-name="LIVE EVENT 17 - 22:30 (VN) CARS Tour South Boston" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent17.png" group-title="LIVE | PPV Events",LIVE EVENT 17 - 22:30 (VN) CARS Tour South Boston
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233878.ts
-#EXTINF:-1 tvg-id="liveevent187pmwilliamsgrovesprintcars" tvg-name="LIVE EVENT 18 - 7PM Williams Grove Sprint Cars" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - 7PM Williams Grove Sprint Cars
+#EXTINF:-1 tvg-id="liveevent182315vnsmartmodifiedsdominion" tvg-name="LIVE EVENT 18 - 23:15 (VN) SMART Modifieds Dominion" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - 23:15 (VN) SMART Modifieds Dominion
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233879.ts
-#EXTINF:-1 tvg-id="liveevent190115vnjacksonvillesprints" tvg-name="LIVE EVENT 19 - 01:15 (VN) Jacksonville Sprints" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent19.png" group-title="LIVE | PPV Events",LIVE EVENT 19 - 01:15 (VN) Jacksonville Sprints
+#EXTINF:-1 tvg-id="liveevent192330vncecilpalmtree66riverhead" tvg-name="LIVE EVENT 19 - 23:30 (VN) Cecil Palm Tree 66 Riverhead" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent19.png" group-title="LIVE | PPV Events",LIVE EVENT 19 - 23:30 (VN) Cecil Palm Tree 66 Riverhead
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233880.ts
-#EXTINF:-1 tvg-id="liveevent200130vnmarscornstatenationalsdavenport" tvg-name="LIVE EVENT 20 - 01:30 (VN) MARS Corn State Nationals Davenport" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent20.png" group-title="LIVE | PPV Events",LIVE EVENT 20 - 01:30 (VN) MARS Corn State Nationals Davenport
+#EXTINF:-1 tvg-id="liveevent202345vnworldofoutlawslatemodelssenoia" tvg-name="LIVE EVENT 20 - 23:45 (VN) World of Outlaws Late Models Senoia" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent20.png" group-title="LIVE | PPV Events",LIVE EVENT 20 - 23:45 (VN) World of Outlaws Late Models Senoia
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233881.ts
-#EXTINF:-1 tvg-id="liveevent219pmusacwsmidgetsplazapark" tvg-name="LIVE EVENT 21 - 9PM USAC WS Midgets Plaza Park" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent21.png" group-title="LIVE | PPV Events",LIVE EVENT 21 - 9PM USAC WS Midgets Plaza Park
+#EXTINF:-1 tvg-id="liveevent216pmkubotahighlimitracinglernerville" tvg-name="LIVE EVENT 21 - 6PM Kubota High Limit Racing Lernerville" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent21.png" group-title="LIVE | PPV Events",LIVE EVENT 21 - 6PM Kubota High Limit Racing Lernerville
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233882.ts
-#EXTINF:-1 tvg-id="liveevent220315vnworldofoutlawssprintcarsbakersfield" tvg-name="LIVE EVENT 22 - 03:15 (VN) World of Outlaws Sprint Cars Bakersfield" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent22.png" group-title="LIVE | PPV Events",LIVE EVENT 22 - 03:15 (VN) World of Outlaws Sprint Cars Bakersfield
+#EXTINF:-1 tvg-id="liveevent226pmshorttracksuperseriesfonda200" tvg-name="LIVE EVENT 22 - 6PM Short Track Super Series Fonda 200" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent22.png" group-title="LIVE | PPV Events",LIVE EVENT 22 - 6PM Short Track Super Series Fonda 200
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233883.ts
-#EXTINF:-1 tvg-id="liveevent23noevent" tvg-name="LIVE EVENT 23 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent23.png" group-title="LIVE | PPV Events",LIVE EVENT 23 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent236pm500sprintcartoursalem" tvg-name="LIVE EVENT 23 - 6PM 500 Sprint Car Tour Salem" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent23.png" group-title="LIVE | PPV Events",LIVE EVENT 23 - 6PM 500 Sprint Car Tour Salem
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233884.ts
-#EXTINF:-1 tvg-id="liveevent24noevent" tvg-name="LIVE EVENT 24 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent24.png" group-title="LIVE | PPV Events",LIVE EVENT 24 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent240015vnlandoflegendslatemodel" tvg-name="LIVE EVENT 24 - 00:15 (VN) Land of Legends Late Model" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent24.png" group-title="LIVE | PPV Events",LIVE EVENT 24 - 00:15 (VN) Land of Legends Late Model
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233885.ts
-#EXTINF:-1 tvg-id="liveevent25noevent" tvg-name="LIVE EVENT 25 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent25.png" group-title="LIVE | PPV Events",LIVE EVENT 25 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent250315vnworldofoutlawssprintcarsperris" tvg-name="LIVE EVENT 25 - 03:15 (VN) World of Outlaws Sprint Cars Perris" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent25.png" group-title="LIVE | PPV Events",LIVE EVENT 25 - 03:15 (VN) World of Outlaws Sprint Cars Perris
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233886.ts
 #EXTINF:-1 tvg-id="liveevent26" tvg-name="LIVE EVENT 26 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent26.png" group-title="LIVE | PPV Events",LIVE EVENT 26 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233887.ts
