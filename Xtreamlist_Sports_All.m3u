@@ -339,14 +339,12 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/847486.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/847485.ts
 #EXTINF:-1 tvg-id="fitefitetv247vn" tvg-name="FITE -  Fite TV 24/7 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite0.png" group-title="LIVE | PPV Events",FITE -  Fite TV 24/7 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239017.ts
-#EXTINF:-1 tvg-id="fitetv2hddtrillertvpsfightseriesbattleforthebestsun14sep1100vn" tvg-name="Fite TV 2 HD (D): TrillerTV-PS Fight Series Battle for the Best - Sun,14 Sep 11:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite2.png" group-title="LIVE | PPV Events",Fite TV 2 HD (D): TrillerTV-PS Fight Series Battle for the Best - Sun,14 Sep 11:00 (VN)
+#EXTINF:-1 tvg-id="fitetv11hddtrillertvworldbareknucklefightingwbkfbarebones1sun21sep1100vn" tvg-name="Fite TV 11 HD (D): TrillerTV-World Bare Knuckle Fighting WBKF: Bare Bones 1 - Sun,21 Sep 11:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite11.png" group-title="LIVE | PPV Events",Fite TV 11 HD (D): TrillerTV-World Bare Knuckle Fighting WBKF: Bare Bones 1 - Sun,21 Sep 11:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/239035.ts
+#EXTINF:-1 tvg-id="fitetv2hddtrillertvbkfcthebareknuckleshowwithbriansosciaseason2episode116tue16sep1805vn" tvg-name="Fite TV 2 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 116 - Tue,16 Sep 18:05 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite2.png" group-title="LIVE | PPV Events",Fite TV 2 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 116 - Tue,16 Sep 18:05 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239015.ts
-#EXTINF:-1 tvg-id="fitetv3hddtrillertvsbceventsmaltalegendscharitygameportugallegendsvsworldlegendsmon15sep1900vn" tvg-name="Fite TV 3 HD (D): TrillerTV-SBC Events Malta Legends Charity Game: Portugal Legends vs World Legends - Mon,15 Sep 19:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite3.png" group-title="LIVE | PPV Events",Fite TV 3 HD (D): TrillerTV-SBC Events Malta Legends Charity Game: Portugal Legends vs World Legends - Mon,15 Sep 19:00 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239014.ts
-#EXTINF:-1 tvg-id="fitetv4hddtrillertvbkfcthebareknuckleshowwithbriansosciaseason2episode116tue16sep1805vn" tvg-name="Fite TV 4 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 116 - Tue,16 Sep 18:05 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite4.png" group-title="LIVE | PPV Events",Fite TV 4 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 116 - Tue,16 Sep 18:05 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239013.ts
-#EXTINF:-1 tvg-id="fitetv9hddtrillertvgrassrootsboxinggrassrootsboxingpurseonthepalmsat20sep1300vn" tvg-name="Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
+#EXTINF:-1 tvg-id="fitetv7hddtrillertvgrassrootsboxinggrassrootsboxingpurseonthepalmsat20sep1300vn" tvg-name="Fite TV 7 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite7.png" group-title="LIVE | PPV Events",Fite TV 7 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/239010.ts
 #EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 -NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 -NO EVENT
@@ -3207,26 +3205,36 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/842083.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/842084.ts
 #EXTINF:-1 tvg-id="nzskysportsselect" tvg-name="NZ | Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sports",NZ | Sky Sports Select
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697715.ts
-#EXTINF:-1 tvg-id="paramount01seriearomavstorinosep141220vn" tvg-name="Paramount+ 01 :Serie A: Roma vs Torino @ Sep 14 12:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :Serie A: Roma vs Torino @ Sep 14 12:20 (VN)
+#EXTINF:-1 tvg-id="paramount01serieahellasveronavscremonesesep151820vn" tvg-name="Paramount+ 01 :Serie A: Hellas Verona vs Cremonese @ Sep 15 18:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :Serie A: Hellas Verona vs Cremonese @ Sep 15 18:20 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941606.ts
-#EXTINF:-1 tvg-id="paramount02englishfootballleaguesouthamptonvsportsmouthsep141250vn" tvg-name="Paramount+ 02 :English Football League: Southampton vs Portsmouth @ Sep 14 12:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :English Football League: Southampton vs Portsmouth @ Sep 14 12:50 (VN)
+#EXTINF:-1 tvg-id="paramount02serieacomovsgenoasep150835vn" tvg-name="Paramount+ 02 :Serie A: Como vs Genoa @ Sep 15 08:35 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :Serie A: Como vs Genoa @ Sep 15 08:35 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941605.ts
-#EXTINF:-1 tvg-id="paramount04serieaatalantavsleccesep141450vn" tvg-name="Paramount+ 04 :Serie A: Atalanta vs Lecce @ Sep 14 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :Serie A: Atalanta vs Lecce @ Sep 14 14:50 (VN)
+#EXTINF:-1 tvg-id="paramount03" tvg-name="Paramount+ 03 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941604.ts
+#EXTINF:-1 tvg-id="paramount04" tvg-name="Paramount+ 04 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941603.ts
-#EXTINF:-1 tvg-id="paramount05serieapisavsudinesesep141450vn" tvg-name="Paramount+ 05 :Serie A: Pisa vs Udinese @ Sep 14 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :Serie A: Pisa vs Udinese @ Sep 14 14:50 (VN)
+#EXTINF:-1 tvg-id="paramount05" tvg-name="Paramount+ 05 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941602.ts
-#EXTINF:-1 tvg-id="paramount08serieasassuolovslaziosep141700vn" tvg-name="Paramount+ 08 :Serie A: Sassuolo vs Lazio @ Sep 14 17:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :Serie A: Sassuolo vs Lazio @ Sep 14 17:00 (VN)
+#EXTINF:-1 tvg-id="paramount06" tvg-name="Paramount+ 06 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941601.ts
+#EXTINF:-1 tvg-id="paramount07" tvg-name="Paramount+ 07 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941600.ts
+#EXTINF:-1 tvg-id="paramount08" tvg-name="Paramount+ 08 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941599.ts
-#EXTINF:-1 tvg-id="paramount09serieamilanvsbolognasep140800vn" tvg-name="Paramount+ 09 :Serie A: Milan vs Bologna @ Sep 14 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 09 :Serie A: Milan vs Bologna @ Sep 14 08:00 (VN)
+#EXTINF:-1 tvg-id="paramount09" tvg-name="Paramount+ 09 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 09 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941598.ts
-#EXTINF:-1 tvg-id="paramount11nationalwomenssoccerleaguechicagostarsfcvsportlandthornsfcsep140900vn" tvg-name="Paramount+ 11 :National Women's Soccer League: Chicago Stars FC vs Portland Thorns FC @ Sep 14 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :National Women's Soccer League: Chicago Stars FC vs Portland Thorns FC @ Sep 14 09:00 (VN)
+#EXTINF:-1 tvg-id="paramount10" tvg-name="Paramount+ 10 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 10 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941597.ts
+#EXTINF:-1 tvg-id="paramount11" tvg-name="Paramount+ 11 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941596.ts
-#EXTINF:-1 tvg-id="paramount11nationalwomenssoccerleaguechicagostarsfcvsportlandthornsfcsep140900vn" tvg-name="Paramount+ 11 :National Women's Soccer League: Chicago Stars FC vs Portland Thorns FC @ Sep 14 09:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :National Women's Soccer League: Chicago Stars FC vs Portland Thorns FC @ Sep 14 09:00 (VN)
+#EXTINF:-1 tvg-id="paramount11" tvg-name="Paramount+ 11 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941607.ts
-#EXTINF:-1 tvg-id="paramount13nationalwomenssoccerleagueutahroyalsfcvshoustondashsep141200vn" tvg-name="Paramount+ 13 :National Women's Soccer League: Utah Royals FC vs Houston Dash @ Sep 14 12:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 13 :National Women's Soccer League: Utah Royals FC vs Houston Dash @ Sep 14 12:00 (VN)
+#EXTINF:-1 tvg-id="paramount13" tvg-name="Paramount+ 13 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 13 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941595.ts
-#EXTINF:-1 tvg-id="paramount14nationalwomenssoccerleagueseattlereignfcvsracinglouisvillefcsep141400vn" tvg-name="Paramount+ 14 :National Women's Soccer League: Seattle Reign FC vs Racing Louisville FC @ Sep 14 14:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 14 :National Women's Soccer League: Seattle Reign FC vs Racing Louisville FC @ Sep 14 14:00 (VN)
+#EXTINF:-1 tvg-id="paramount14" tvg-name="Paramount+ 14 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 14 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941594.ts
+#EXTINF:-1 tvg-id="paramount15" tvg-name="Paramount+ 15 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 15 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941593.ts
 #EXTINF:-1 tvg-id="uspafcchampionsleague1" tvg-name="US (P+) AFC Champions League 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) AFC Champions League 1
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634843.ts
 #EXTINF:-1 tvg-id="uspafcchampionsleague10" tvg-name="US (P+) AFC Champions League 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) AFC Champions League 10
@@ -3249,15 +3257,15 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634850.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634851.ts
 #EXTINF:-1 tvg-id="uspitalyseriea10" tvg-name="US (P+) Italy SerieA 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634842.ts
-#EXTINF:-1 tvg-id="uspitalyseriea1romavstorino14091220vn" tvg-name="US (P+) Italy SerieA 1: Roma vs Torino | 14/09 12:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Roma vs Torino | 14/09 12:20 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea1hellasveronavscremonese15091820vn" tvg-name="US (P+) Italy SerieA 1: Hellas Verona vs Cremonese | 15/09 18:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Hellas Verona vs Cremonese | 15/09 18:20 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
-#EXTINF:-1 tvg-id="uspitalyseriea2atalantavslecce14091450vn" tvg-name="US (P+) Italy SerieA 2: Atalanta vs Lecce | 14/09 14:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2: Atalanta vs Lecce | 14/09 14:50 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea2comovsgenoa15092035vn" tvg-name="US (P+) Italy SerieA 2: Como vs Genoa | 15/09 20:35 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2: Como vs Genoa | 15/09 20:35 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634834.ts
-#EXTINF:-1 tvg-id="uspitalyseriea3pisavsudinese14091450vn" tvg-name="US (P+) Italy SerieA 3: Pisa vs Udinese | 14/09 14:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3: Pisa vs Udinese | 14/09 14:50 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea3" tvg-name="US (P+) Italy SerieA 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634835.ts
-#EXTINF:-1 tvg-id="uspitalyseriea4sassuolovslazio14091700vn" tvg-name="US (P+) Italy SerieA 4: Sassuolo vs Lazio | 14/09 17:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 4: Sassuolo vs Lazio | 14/09 17:00 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea4" tvg-name="US (P+) Italy SerieA 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 4
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634836.ts
-#EXTINF:-1 tvg-id="uspitalyseriea5milanvsbologna14092000vn" tvg-name="US (P+) Italy SerieA 5: Milan vs Bologna | 14/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 5: Milan vs Bologna | 14/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea5" tvg-name="US (P+) Italy SerieA 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 5
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634837.ts
 #EXTINF:-1 tvg-id="uspitalyseriea6" tvg-name="US (P+) Italy SerieA 6" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 6
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634838.ts
