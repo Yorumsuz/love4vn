@@ -425,69 +425,67 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/701060.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/701061.ts
 #EXTINF:-1 tvg-id="01wtatourseoulmon1200vn" tvg-name="01. WTA Tour | Seoul (Mon 12:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports1.png" group-title="LIVE | Sports Events",01. WTA Tour | Seoul (Mon 12:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356436.ts
-#EXTINF:-1 tvg-id="02wtatoursaopaulosun0100vn" tvg-name="02. WTA Tour | Sao Paulo (Sun 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events",02. WTA Tour | Sao Paulo (Sun 01:00 (VN))
+#EXTINF:-1 tvg-id="02wtatourseoulmon1200vn" tvg-name="02. WTA Tour | Seoul (Mon 12:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events",02. WTA Tour | Seoul (Mon 12:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356437.ts
-#EXTINF:-1 tvg-id="03wtatourguadalajarasun0400vn" tvg-name="03. WTA Tour | Guadalajara (Sun 04:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events",03. WTA Tour | Guadalajara (Sun 04:00 (VN))
+#EXTINF:-1 tvg-id="03wtatourseoulmon1200vn" tvg-name="03. WTA Tour | Seoul (Mon 12:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events",03. WTA Tour | Seoul (Mon 12:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356438.ts
-#EXTINF:-1 tvg-id="04wtatourguadalajarasun0400vn" tvg-name="04. WTA Tour | Guadalajara (Sun 04:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events",04. WTA Tour | Guadalajara (Sun 04:00 (VN))
+#EXTINF:-1 tvg-id="04wstenglishopenmon1600vn" tvg-name="04. WST | English Open (Mon 16:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events",04. WST | English Open (Mon 16:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356439.ts
-#EXTINF:-1 tvg-id="05wtatourguadalajarasun0400vn" tvg-name="05. WTA Tour | Guadalajara (Sun 04:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events",05. WTA Tour | Guadalajara (Sun 04:00 (VN))
+#EXTINF:-1 tvg-id="05wstenglishopenmon13000100vn" tvg-name="05. WST | English Open (Mon 13:00/01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events",05. WST | English Open (Mon 13:00/01:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356440.ts
-#EXTINF:-1 tvg-id="06lavueltastage21sun2140vn" tvg-name="06. La Vuelta | Stage 21 (Sun 21:40 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports6.png" group-title="LIVE | Sports Events",06. La Vuelta | Stage 21 (Sun 21:40 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356441.ts
-#EXTINF:-1 tvg-id="07lavueltastage21sun2140vn" tvg-name="07. La Vuelta | Stage 21 (Sun 21:40 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports7.png" group-title="LIVE | Sports Events",07. La Vuelta | Stage 21 (Sun 21:40 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356442.ts
-#EXTINF:-1 tvg-id="08cyclinggrandprixmontrealsun2100vn" tvg-name="08. Cycling | Grand Prix Montreal (Sun 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports8.png" group-title="LIVE | Sports Events",08. Cycling | Grand Prix Montreal (Sun 21:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356443.ts
-#EXTINF:-1 tvg-id="11badmintonhongkongopensun0900vn" tvg-name="11. Badminton | Hong Kong Open (Sun 09:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events",11. Badminton | Hong Kong Open (Sun 09:00 (VN))
+#EXTINF:-1 tvg-id="09woldathleticsworldchampionshipstokyomon1730vn" tvg-name="09. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events",09. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356444.ts
+#EXTINF:-1 tvg-id="10woldathleticsworldchampionshipstokyomon1730vn" tvg-name="10. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports10.png" group-title="LIVE | Sports Events",10. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356445.ts
+#EXTINF:-1 tvg-id="11woldathleticsworldchampionshipstokyomon1730vn" tvg-name="11. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events",11. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356446.ts
-#EXTINF:-1 tvg-id="12badmintonhongkongopensun0900vn" tvg-name="12. Badminton | Hong Kong Open (Sun 09:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports12.png" group-title="LIVE | Sports Events",12. Badminton | Hong Kong Open (Sun 09:00 (VN))
+#EXTINF:-1 tvg-id="12woldathleticsworldchampionshipstokyomon1730vn" tvg-name="12. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports12.png" group-title="LIVE | Sports Events",12. Wold Athletics | World Championships: Tokyo (Mon 17:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356447.ts
-#EXTINF:-1 tvg-id="13badmintonhongkongopensun0900vn" tvg-name="13. Badminton | Hong Kong Open (Sun 09:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports13.png" group-title="LIVE | Sports Events",13. Badminton | Hong Kong Open (Sun 09:00 (VN))
+#EXTINF:-1 tvg-id="13sportsnoevent" tvg-name="13. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports13.png" group-title="LIVE | Sports Events",13. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356448.ts
-#EXTINF:-1 tvg-id="14dpworldtourbmwpgachampionshipsun09001800vn" tvg-name="14. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports14.png" group-title="LIVE | Sports Events",14. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))
+#EXTINF:-1 tvg-id="14sportsnoevent" tvg-name="14. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports14.png" group-title="LIVE | Sports Events",14. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356449.ts
-#EXTINF:-1 tvg-id="15dpworldtourbmwpgachampionshipsun09001800vn" tvg-name="15. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events",15. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))
+#EXTINF:-1 tvg-id="15sportsnoevent" tvg-name="15. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events",15. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356450.ts
-#EXTINF:-1 tvg-id="16dpworldtourbmwpgachampionshipsun09001800vn" tvg-name="16. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events",16. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))
+#EXTINF:-1 tvg-id="16sportsnoevent" tvg-name="16. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events",16. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356451.ts
-#EXTINF:-1 tvg-id="17dpworldtourbmwpgachampionshipsun09001800vn" tvg-name="17. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events",17. DP World Tour | BMW PGA Championship (Sun 09:00/18:00 (VN))
+#EXTINF:-1 tvg-id="17sportsnoevent" tvg-name="17. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events",17. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356452.ts
-#EXTINF:-1 tvg-id="18pgatourprocorechampionshipsun0500vn" tvg-name="18. PGA Tour | Procore Championship (Sun 05:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events",18. PGA Tour | Procore Championship (Sun 05:00 (VN))
+#EXTINF:-1 tvg-id="18sportsnoevent" tvg-name="18. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events",18. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356453.ts
-#EXTINF:-1 tvg-id="19pgatourprocorechampionshipsun0500vn" tvg-name="19. PGA Tour | Procore Championship (Sun 05:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events",19. PGA Tour | Procore Championship (Sun 05:00 (VN))
+#EXTINF:-1 tvg-id="19sportsnoevent" tvg-name="19. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events",19. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356454.ts
-#EXTINF:-1 tvg-id="20pgatourprocorechampionshipsun0500vn" tvg-name="20. PGA Tour | Procore Championship (Sun 05:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports20.png" group-title="LIVE | Sports Events",20. PGA Tour | Procore Championship (Sun 05:00 (VN))
+#EXTINF:-1 tvg-id="20sportsnoevent" tvg-name="20. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports20.png" group-title="LIVE | Sports Events",20. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356455.ts
-#EXTINF:-1 tvg-id="21pgatourprocorechampionshipsun0500vn" tvg-name="21. PGA Tour | Procore Championship (Sun 05:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports21.png" group-title="LIVE | Sports Events",21. PGA Tour | Procore Championship (Sun 05:00 (VN))
+#EXTINF:-1 tvg-id="21sportsnoevent" tvg-name="21. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports21.png" group-title="LIVE | Sports Events",21. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356456.ts
-#EXTINF:-1 tvg-id="22asiantour41stshinhandonghaeopensun1000vn" tvg-name="22. Asian Tour | 41st Shinhan Donghae Open (Sun 10:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports22.png" group-title="LIVE | Sports Events",22. Asian Tour | 41st Shinhan Donghae Open (Sun 10:00 (VN))
+#EXTINF:-1 tvg-id="22sportsnoevent" tvg-name="22. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports22.png" group-title="LIVE | Sports Events",22. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356457.ts
-#EXTINF:-1 tvg-id="23asiantour41stshinhandonghaeopensun1000vn" tvg-name="23. Asian Tour | 41st Shinhan Donghae Open (Sun 10:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events",23. Asian Tour | 41st Shinhan Donghae Open (Sun 10:00 (VN))
+#EXTINF:-1 tvg-id="23sportsnoevent" tvg-name="23. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events",23. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356458.ts
-#EXTINF:-1 tvg-id="24letvpbankswissladiesopensun1900vn" tvg-name="24. LET | VP Bank Swiss Ladies Open (Sun 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events",24. LET | VP Bank Swiss Ladies Open (Sun 19:00 (VN))
+#EXTINF:-1 tvg-id="24sportsnoevent" tvg-name="24. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events",24. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356459.ts
-#EXTINF:-1 tvg-id="25letvpbankswissladiesopensun1900vn" tvg-name="25. LET | VP Bank Swiss Ladies Open (Sun 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events",25. LET | VP Bank Swiss Ladies Open (Sun 19:00 (VN))
+#EXTINF:-1 tvg-id="25sportsnoevent" tvg-name="25. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events",25. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356460.ts
-#EXTINF:-1 tvg-id="26lpgakrogerqueencitychampionshipsun0000vn" tvg-name="26. LPGA | Kroger Queen City Championship (Sun 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports26.png" group-title="LIVE | Sports Events",26. LPGA | Kroger Queen City Championship (Sun 00:00 (VN))
+#EXTINF:-1 tvg-id="26sportsnoevent" tvg-name="26. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports26.png" group-title="LIVE | Sports Events",26. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356461.ts
-#EXTINF:-1 tvg-id="27lpgakrogerqueencitychampionshipsun0000vn" tvg-name="27. LPGA | Kroger Queen City Championship (Sun 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports27.png" group-title="LIVE | Sports Events",27. LPGA | Kroger Queen City Championship (Sun 00:00 (VN))
+#EXTINF:-1 tvg-id="27sportsnoevent" tvg-name="27. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports27.png" group-title="LIVE | Sports Events",27. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356462.ts
-#EXTINF:-1 tvg-id="28lpgakrogerqueencitychampionshipsun0000vn" tvg-name="28. LPGA | Kroger Queen City Championship (Sun 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports28.png" group-title="LIVE | Sports Events",28. LPGA | Kroger Queen City Championship (Sun 00:00 (VN))
+#EXTINF:-1 tvg-id="28sportsnoevent" tvg-name="28. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports28.png" group-title="LIVE | Sports Events",28. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356463.ts
-#EXTINF:-1 tvg-id="29worldathleticschampionshiptokyosun10300530vn" tvg-name="29. World Athletics Championship | Tokyo (Sun 10:30/05:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports29.png" group-title="LIVE | Sports Events",29. World Athletics Championship | Tokyo (Sun 10:30/05:30 (VN))
+#EXTINF:-1 tvg-id="29sportsnoevent" tvg-name="29. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports29.png" group-title="LIVE | Sports Events",29. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356464.ts
-#EXTINF:-1 tvg-id="30daviscupspainvsdenmarksun1630vn" tvg-name="30. Davis Cup | Spain vs Denmark (Sun 16:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports30.png" group-title="LIVE | Sports Events",30. Davis Cup | Spain vs Denmark (Sun 16:30 (VN))
+#EXTINF:-1 tvg-id="30sportsnoevent" tvg-name="30. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports30.png" group-title="LIVE | Sports Events",30. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356465.ts
-#EXTINF:-1 tvg-id="31daviscupirelandvschinasun1800vn" tvg-name="31. Davis Cup | Ireland vs China (Sun 18:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports31.png" group-title="LIVE | Sports Events",31. Davis Cup | Ireland vs China (Sun 18:00 (VN))
+#EXTINF:-1 tvg-id="31sportsnoevent" tvg-name="31. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports31.png" group-title="LIVE | Sports Events",31. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286960.ts
-#EXTINF:-1 tvg-id="32daviscupirelandvschinasun1800vn" tvg-name="32. Davis Cup | Ireland vs China (Sun 18:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports32.png" group-title="LIVE | Sports Events",32. Davis Cup | Ireland vs China (Sun 18:00 (VN))
+#EXTINF:-1 tvg-id="32sportsnoevent" tvg-name="32. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports32.png" group-title="LIVE | Sports Events",32. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286961.ts
-#EXTINF:-1 tvg-id="33mountainbikingvalaissun1815vn" tvg-name="33. Mountain Biking | Valais (Sun 18:15 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports33.png" group-title="LIVE | Sports Events",33. Mountain Biking | Valais (Sun 18:15 (VN))
+#EXTINF:-1 tvg-id="33sportsnoevent" tvg-name="33. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports33.png" group-title="LIVE | Sports Events",33. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286962.ts
-#EXTINF:-1 tvg-id="34premierpadelparisfinalssun1900vn" tvg-name="34. Premier Padel | Paris Finals (Sun 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports34.png" group-title="LIVE | Sports Events",34. Premier Padel | Paris Finals (Sun 19:00 (VN))
+#EXTINF:-1 tvg-id="34sportsnoevent" tvg-name="34. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports34.png" group-title="LIVE | Sports Events",34. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286963.ts
-#EXTINF:-1 tvg-id="35kornferrygolfsimmonsbankopensun0300vn" tvg-name="35. Korn Ferry Golf | Simmons Bank Open (Sun 03:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports35.png" group-title="LIVE | Sports Events",35. Korn Ferry Golf | Simmons Bank Open (Sun 03:00 (VN))
+#EXTINF:-1 tvg-id="35sportsnoevent" tvg-name="35. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports35.png" group-title="LIVE | Sports Events",35. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286964.ts
 #EXTINF:-1 tvg-id="faplayer01liveeventsonly" tvg-name="FA Player 01 (Live Events Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/FAPlayer.png" group-title="LIVE | WSL / FA Player",FA Player 01 (Live Events Only)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/635412.ts
