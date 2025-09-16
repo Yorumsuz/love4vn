@@ -1741,36 +1741,6 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/908792.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/908799.ts
 #EXTINF:-1 tvg-id="novsporthd" tvg-name="NO: V SPORT+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-plus-no.png" group-title="SC | Sports",NO: V SPORT+ HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/908800.ts
-#EXTINF:-1 tvg-id="onefootball1" tvg-name="OneFootball 1" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 1
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955813.ts
-#EXTINF:-1 tvg-id="onefootball10" tvg-name="OneFootball 10" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 10
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955822.ts
-#EXTINF:-1 tvg-id="onefootball11" tvg-name="OneFootball 11" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 11
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955823.ts
-#EXTINF:-1 tvg-id="onefootball12" tvg-name="OneFootball 12" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 12
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955824.ts
-#EXTINF:-1 tvg-id="onefootball13" tvg-name="OneFootball 13" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 13
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955825.ts
-#EXTINF:-1 tvg-id="onefootball14" tvg-name="OneFootball 14" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 14
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955826.ts
-#EXTINF:-1 tvg-id="onefootball15" tvg-name="OneFootball 15" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 15
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955827.ts
-#EXTINF:-1 tvg-id="onefootball2" tvg-name="OneFootball 2" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 2
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955814.ts
-#EXTINF:-1 tvg-id="onefootball3" tvg-name="OneFootball 3" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 3
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955815.ts
-#EXTINF:-1 tvg-id="onefootball4" tvg-name="OneFootball 4" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 4
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955816.ts
-#EXTINF:-1 tvg-id="onefootball5" tvg-name="OneFootball 5" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 5
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955817.ts
-#EXTINF:-1 tvg-id="onefootball6" tvg-name="OneFootball 6" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 6
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955818.ts
-#EXTINF:-1 tvg-id="onefootball7" tvg-name="OneFootball 7" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 7
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955819.ts
-#EXTINF:-1 tvg-id="onefootball8" tvg-name="OneFootball 8" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 8
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955820.ts
-#EXTINF:-1 tvg-id="onefootball9" tvg-name="OneFootball 9" tvg-logo="https://ptvs.live:443/images/6925WpU8IVOT71BcgjCh7atbuETsMR1mrWNcwznstZcGLuD7bTOdlcYquYEmBHtk.png" group-title="Sport | OneFootball",OneFootball 9
-http://tv.8dott.xyz:80/live/samuel/samuel123456/955821.ts
 #EXTINF:-1 tvg-id="myastroarena2fhd" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena 2 FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709266.ts
 #EXTINF:-1 tvg-id="myastroarenafhd" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena FHD
@@ -3521,21 +3491,21 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/937156.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937155.ts
 #EXTINF:-1 tvg-id="tennis07norriecameronvszhouyisep171410vnatpchengdu" tvg-name="Tennis 07 :Norrie, Cameron vs Zhou, Yi @ Sep 17 14:10 (VN) - ATP Chengdu" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 07 :Norrie, Cameron vs Zhou, Yi @ Sep 17 14:10 (VN) - ATP Chengdu
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937154.ts
-#EXTINF:-1 tvg-id="tennis08" tvg-name="Tennis 08 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 08 :
+#EXTINF:-1 tvg-id="tennis08navonemarianovstienlearnersep171510vnatphangzhou" tvg-name="Tennis 08 : Navone, Mariano vs Tien, Learner @ Sep 17 15:10 (VN) - ATP Hangzhou" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 08 : Navone, Mariano vs Tien, Learner @ Sep 17 15:10 (VN) - ATP Hangzhou
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937153.ts
-#EXTINF:-1 tvg-id="tennis09" tvg-name="Tennis 09 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 09 :
+#EXTINF:-1 tvg-id="tennis09eikeriutangqvsbackdleeesep171540vnwtaseoul" tvg-name="Tennis 09 : Eikeri U, Tang Q vs Back D, Lee E @ Sep 17 15:40 (VN) - WTA Seoul" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 09 : Eikeri U, Tang Q vs Back D, Lee E @ Sep 17 15:40 (VN) - WTA Seoul
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937152.ts
-#EXTINF:-1 tvg-id="tennis10" tvg-name="Tennis 10 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 10 :
+#EXTINF:-1 tvg-id="tennis10jointmayavskeninsofiasep171630vnwtaseoul" tvg-name="Tennis 10 :Joint, Maya vs Kenin, Sofia @ Sep 17 16:30 (VN) - WTA Seoul" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 10 :Joint, Maya vs Kenin, Sofia @ Sep 17 16:30 (VN) - WTA Seoul
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937151.ts
-#EXTINF:-1 tvg-id="tennis11" tvg-name="Tennis 11 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 11 :
+#EXTINF:-1 tvg-id="tennis11krejcikovabsiniakovakvsblinkovaaninomiyamsep171630vnwtaseoul" tvg-name="Tennis 11 :Krejcikova B, Siniakova K vs Blinkova A, Ninomiya M @ Sep 17 16:30 (VN) - WTA Seoul" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 11 :Krejcikova B, Siniakova K vs Blinkova A, Ninomiya M @ Sep 17 16:30 (VN) - WTA Seoul
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937150.ts
-#EXTINF:-1 tvg-id="tennis12" tvg-name="Tennis 12 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 12 :
+#EXTINF:-1 tvg-id="tennis12bergszizouvsshangjunchengsep171630vnatpchengdu" tvg-name="Tennis 12 :Bergs, Zizou vs Shang, Juncheng @ Sep 17 16:30 (VN) - ATP Chengdu" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 12 :Bergs, Zizou vs Shang, Juncheng @ Sep 17 16:30 (VN) - ATP Chengdu
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937149.ts
-#EXTINF:-1 tvg-id="tennis13" tvg-name="Tennis 13 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 13 :
+#EXTINF:-1 tvg-id="tennis13spainvsukrainesep171700vnbilliejeankingcup" tvg-name="Tennis 13 :Spain vs Ukraine @ Sep 17 17:00 (VN) - Billie Jean King Cup" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 13 :Spain vs Ukraine @ Sep 17 17:00 (VN) - Billie Jean King Cup
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937148.ts
-#EXTINF:-1 tvg-id="tennis14" tvg-name="Tennis 14 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 14 :
+#EXTINF:-1 tvg-id="tennis14lysevavstausonclarasep171830vnwtaseoul" tvg-name="Tennis 14 :Lys, Eva vs Tauson, Clara @ Sep 17 18:30 (VN) - WTA Seoul" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 14 :Lys, Eva vs Tauson, Clara @ Sep 17 18:30 (VN) - WTA Seoul
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937147.ts
-#EXTINF:-1 tvg-id="tennis15" tvg-name="Tennis 15 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 15 :
+#EXTINF:-1 tvg-id="tennis15mannarinoadrianvswuyibingsep171930vnatphangzhou" tvg-name="Tennis 15 :Mannarino, Adrian vs Wu, Yibing @ Sep 17 19:30 (VN) - ATP Hangzhou" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 15 :Mannarino, Adrian vs Wu, Yibing @ Sep 17 19:30 (VN) - ATP Hangzhou
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937146.ts
 #EXTINF:-1 tvg-id="tennis16" tvg-name="Tennis 16 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 16 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937145.ts
