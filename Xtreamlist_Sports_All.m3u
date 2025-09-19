@@ -315,9 +315,13 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/396308.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/945352.ts
 #EXTINF:-1 tvg-id="thmonomaxpl247vn" tvg-name="TH | MonoMax PL 24/7 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 24/7 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697153.ts
-#EXTINF:-1 tvg-id="boxingcaneloalvarezvsterencecrawfordsat0230vn" tvg-name="BOXING: Canelo Alvarez vs. Terence Crawford (Sat 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | PPV Events",BOXING: Canelo Alvarez vs. Terence Crawford (Sat 02:30 (VN))
+#EXTINF:-1 tvg-id="boxingbrandonmoorevsdeandresavagesat0700vn" tvg-name="BOXING: Brandon Moore vs. DeAndre Savage (Sat 07:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/MoorevsSavage.jpg" group-title="LIVE | PPV Events",BOXING: Brandon Moore vs. DeAndre Savage (Sat 07:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323542.ts
-#EXTINF:-1 tvg-id="boxinglewiscrockervspaddydonovansat2230vn" tvg-name="BOXING: Lewis Crocker vs. Paddy Donovan (Sat 22:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/Lewis-Crocker-vs.-Paddy-Donovan.webp" group-title="LIVE | PPV Events",BOXING: Lewis Crocker vs. Paddy Donovan (Sat 22:30 (VN))
+#EXTINF:-1 tvg-id="boxingoscarcollazovsjaysonvaysonfhdsun" tvg-name="BOXING: Oscar Collazo vs. Jayson Vayson FHD (Sun)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/OscarCollazoVSJaysonVaysonjpg.jpg" group-title="LIVE | PPV Events",BOXING: Oscar Collazo vs. Jayson Vayson FHD (Sun)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/323540.ts
+#EXTINF:-1 tvg-id="boxingoscarcollazovsjaysonvaysonhdsun" tvg-name="BOXING: Oscar Collazo vs. Jayson Vayson HD (Sun)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/OscarCollazoVSJaysonVaysonjpg.jpg" group-title="LIVE | PPV Events",BOXING: Oscar Collazo vs. Jayson Vayson HD (Sun)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/323541.ts
+#EXTINF:-1 tvg-id="boxingsarabaileyvsevelinnazarenabermudezsat" tvg-name="BOXING: Sara Bailey vs. Evelin Nazarena Bermudez (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/SaraBaileyvs.EvelinNazarenaBermud.jpg" group-title="LIVE | PPV Events",BOXING: Sara Bailey vs. Evelin Nazarena Bermudez (Sat)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323545.ts
 #EXTINF:-1 tvg-id="daznppvfhd" tvg-name="DAZN PPV FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events",DAZN PPV FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/847486.ts
