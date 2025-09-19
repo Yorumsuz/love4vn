@@ -3183,10 +3183,10 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634849.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634850.ts
 #EXTINF:-1 tvg-id="uspafcchampionsleague9" tvg-name="US (P+) AFC Champions League 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) AFC Champions League 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634851.ts
-#EXTINF:-1 tvg-id="uspitalyseriea1" tvg-name="US (P+) Italy SerieA 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1
-http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
 #EXTINF:-1 tvg-id="uspitalyseriea10" tvg-name="US (P+) Italy SerieA 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634842.ts
+#EXTINF:-1 tvg-id="uspitalyseriea1leccevscagliari19092035vn" tvg-name="US (P+) Italy SerieA 1: Lecce vs Cagliari | 19/09 20:35 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Lecce vs Cagliari | 19/09 20:35 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
 #EXTINF:-1 tvg-id="uspitalyseriea2" tvg-name="US (P+) Italy SerieA 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634834.ts
 #EXTINF:-1 tvg-id="uspitalyseriea3" tvg-name="US (P+) Italy SerieA 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3
@@ -3203,6 +3203,8 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634839.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634840.ts
 #EXTINF:-1 tvg-id="uspitalyseriea9" tvg-name="US (P+) Italy SerieA 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634841.ts
+#EXTINF:-1 tvg-id="uspuefachampionsleague1" tvg-name="US (P+) UEFA Champions League 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1
+http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague10" tvg-name="US (P+) UEFA Champions League 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838279.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague11" tvg-name="US (P+) UEFA Champions League 11" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 11
@@ -3215,19 +3217,17 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/838276.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838275.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague15" tvg-name="US (P+) UEFA Champions League 15" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 15
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838274.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague1copenhagenvsbayerleverkusen18091800vn" tvg-name="US (P+) UEFA Champions League 1: Copenhagen vs Bayer Leverkusen | 18/09 18:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1: Copenhagen vs Bayer Leverkusen | 18/09 18:00 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague2clubbruggevsmonaco18091800vn" tvg-name="US (P+) UEFA Champions League 2: Club Brugge vs Monaco | 18/09 18:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2: Club Brugge vs Monaco | 18/09 18:00 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague2" tvg-name="US (P+) UEFA Champions League 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838287.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague3mancityvsnapoli18092000vn" tvg-name="US (P+) UEFA Champions League 3: Man City vs Napoli | 18/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3: Man City vs Napoli | 18/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague3" tvg-name="US (P+) UEFA Champions League 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838286.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague4newcastleunitedvsbarcelona18092000vn" tvg-name="US (P+) UEFA Champions League 4: Newcastle United vs Barcelona | 18/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4: Newcastle United vs Barcelona | 18/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague4" tvg-name="US (P+) UEFA Champions League 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838285.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague5thegolazoshow18092000vn" tvg-name="US (P+) UEFA Champions League 5: The Golazo Show | 18/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 5: The Golazo Show | 18/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague5" tvg-name="US (P+) UEFA Champions League 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 5
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838284.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague6eintrachtfrankfurtvsgalatasaray18092000vn" tvg-name="US (P+) UEFA Champions League 6:  Eintracht Frankfurt vs Galatasaray | 18/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 6:  Eintracht Frankfurt vs Galatasaray | 18/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague6" tvg-name="US (P+) UEFA Champions League 6" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 6
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838283.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague7sportingcpvskairatalmaty18092000vn" tvg-name="US (P+) UEFA Champions League 7: Sporting CP vs Kairat Almaty | 18/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 7: Sporting CP vs Kairat Almaty | 18/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague7" tvg-name="US (P+) UEFA Champions League 7" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 7
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838282.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague8" tvg-name="US (P+) UEFA Champions League 8" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 8
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838281.ts
