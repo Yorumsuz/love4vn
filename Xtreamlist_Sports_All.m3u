@@ -317,9 +317,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/945352.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697153.ts
 #EXTINF:-1 tvg-id="boxingbrandonmoorevsdeandresavagesat0700vn" tvg-name="BOXING: Brandon Moore vs. DeAndre Savage (Sat 07:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/MoorevsSavage.jpg" group-title="LIVE | PPV Events",BOXING: Brandon Moore vs. DeAndre Savage (Sat 07:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323542.ts
-#EXTINF:-1 tvg-id="boxingoscarcollazovsjaysonvaysonfhdsun" tvg-name="BOXING: Oscar Collazo vs. Jayson Vayson FHD (Sun)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/OscarCollazoVSJaysonVaysonjpg.jpg" group-title="LIVE | PPV Events",BOXING: Oscar Collazo vs. Jayson Vayson FHD (Sun)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/323540.ts
-#EXTINF:-1 tvg-id="boxingoscarcollazovsjaysonvaysonhdsun" tvg-name="BOXING: Oscar Collazo vs. Jayson Vayson HD (Sun)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/OscarCollazoVSJaysonVaysonjpg.jpg" group-title="LIVE | PPV Events",BOXING: Oscar Collazo vs. Jayson Vayson HD (Sun)
+#EXTINF:-1 tvg-id="boxingoscarcollazovsjaysonvaysonsun" tvg-name="BOXING: Oscar Collazo vs. Jayson Vayson (Sun)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/OscarCollazoVSJaysonVaysonjpg.jpg" group-title="LIVE | PPV Events",BOXING: Oscar Collazo vs. Jayson Vayson (Sun)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323541.ts
 #EXTINF:-1 tvg-id="boxingsarabaileyvsevelinnazarenabermudezsat" tvg-name="BOXING: Sara Bailey vs. Evelin Nazarena Bermudez (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/SaraBaileyvs.EvelinNazarenaBermud.jpg" group-title="LIVE | PPV Events",BOXING: Sara Bailey vs. Evelin Nazarena Bermudez (Sat)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323545.ts
@@ -337,15 +335,17 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239035.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239015.ts
 #EXTINF:-1 tvg-id="fitetv6hddtrillertvcmllcmll92ndanniversaryfri19sep0430vn" tvg-name="Fite TV 6 HD (D): TrillerTV-CMLL CMLL 92nd Anniversary - Fri,19 Sep 04:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite6.png" group-title="LIVE | PPV Events",Fite TV 6 HD (D): TrillerTV-CMLL CMLL 92nd Anniversary - Fri,19 Sep 04:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
-#EXTINF:-1 tvg-id="liveevent011330vnbravecf98" tvg-name="LIVE EVENT 01 - 13:30 (VN) Brave CF 98" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 13:30 (VN) Brave CF 98
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
-#EXTINF:-1 tvg-id="liveevent031930vnbravehearts" tvg-name="LIVE EVENT 03 - 19:30 (VN) Bravehearts" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - 19:30 (VN) Bravehearts
+#EXTINF:-1 tvg-id="liveevent03noevent" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
+#EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
+http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
 #EXTINF:-1 tvg-id="liveevent053pmhexagone" tvg-name="LIVE EVENT 05 - 3PM Hexagone" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 3PM Hexagone
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
-#EXTINF:-1 tvg-id="liveevent066pmbrownvangulo" tvg-name="LIVE EVENT 06 - 6PM Brown v Angulo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 6PM Brown v Angulo
+#EXTINF:-1 tvg-id="liveevent06noevent" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
 #EXTINF:-1 tvg-id="liveevent077pmshootobrazil132" tvg-name="LIVE EVENT 07 - 7PM Shooto Brazil 132" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - 7PM Shooto Brazil 132
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174935.ts
@@ -365,9 +365,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/233876.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239245.ts
 #EXTINF:-1 tvg-id="liveevent160115vnlucasoillmnationalsknoxville" tvg-name="LIVE EVENT 16 - 01:15 (VN) Lucas Oil LM Nationals Knoxville" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - 01:15 (VN) Lucas Oil LM Nationals Knoxville
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233877.ts
-#EXTINF:-1 tvg-id="liveevent170130vnjacksonsprintcars" tvg-name="LIVE EVENT 17 - 01:30 (VN) Jackson Sprint Cars" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent17.png" group-title="LIVE | PPV Events",LIVE EVENT 17 - 01:30 (VN) Jackson Sprint Cars
+#EXTINF:-1 tvg-id="liveevent17noevent" tvg-name="LIVE EVENT 17 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent17.png" group-title="LIVE | PPV Events",LIVE EVENT 17 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233878.ts
-#EXTINF:-1 tvg-id="liveevent180130vnirasprintsjacksonnationals" tvg-name="LIVE EVENT 18 - 01:30 (VN) IRA Sprints Jackson Nationals" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - 01:30 (VN) IRA Sprints Jackson Nationals
+#EXTINF:-1 tvg-id="liveevent18noevent" tvg-name="LIVE EVENT 18 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233879.ts
 #EXTINF:-1 tvg-id="liveevent190130vnmarslatemodelsbrownstown" tvg-name="LIVE EVENT 19 - 01:30 (VN) Mars Late Models Brownstown" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent19.png" group-title="LIVE | PPV Events",LIVE EVENT 19 - 01:30 (VN) Mars Late Models Brownstown
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233880.ts
