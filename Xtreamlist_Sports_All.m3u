@@ -81,7 +81,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256492.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256488.ts
 #EXTINF:-1 tvg-id="astonvillafcmatchtimeonly" tvg-name="ASTON VILLA F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Aston-Villa.png" group-title="LIVE | EPL Hub",ASTON VILLA F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256489.ts
-#EXTINF:-1 tvg-id="brentfordfcmatchtimeonly" tvg-name="BRENTFORD F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Brentford.png" group-title="LIVE | EPL Hub",BRENTFORD F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="brentfordfcsat0200vn" tvg-name="BRENTFORD F.C (Sat 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Brentford.png" group-title="LIVE | EPL Hub",BRENTFORD F.C (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256490.ts
 #EXTINF:-1 tvg-id="brightonhovealbionfcsat2100vn" tvg-name="BRIGHTON & HOVE ALBION F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Brighton.png" group-title="LIVE | EPL Hub",BRIGHTON & HOVE ALBION F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256491.ts
@@ -103,7 +103,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/174942.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/417163.ts
 #EXTINF:-1 tvg-id="evertonfcsat1830vn" tvg-name="EVERTON F.C (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Everton.png" group-title="LIVE | EPL Hub",EVERTON F.C (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256495.ts
-#EXTINF:-1 tvg-id="fulhamfcmatchtimeonly" tvg-name="FULHAM F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="fulhamfcsat0200vn" tvg-name="FULHAM F.C (Sat 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256508.ts
 #EXTINF:-1 tvg-id="leedsunitedfcsat2100vn" tvg-name="LEEDS UNITED F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Leeds-United-FC.png" group-title="LIVE | EPL Hub",LEEDS UNITED F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256497.ts
@@ -337,11 +337,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239034.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvgrassrootsboxinggrassrootsboxingpurseonthepalmsat20sep1300vn" tvg-name="Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent013pmaewallouttoronto" tvg-name="LIVE EVENT 01 - 3PM AEW All Out Toronto" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 3PM AEW All Out Toronto
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent047ampurseonthepalm" tvg-name="LIVE EVENT 04 - 7AM Purse on the Palm" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - 7AM Purse on the Palm
+#EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
-#EXTINF:-1 tvg-id="liveevent052030vnfcc43" tvg-name="LIVE EVENT 05 - 20:30 (VN) FCC 43" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 20:30 (VN) FCC 43
+#EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
 #EXTINF:-1 tvg-id="liveevent068pmcollazovvayson" tvg-name="LIVE EVENT 06 - 8PM Collazo v Vayson" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 8PM Collazo v Vayson
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
@@ -353,15 +353,15 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/174936.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174937.ts
 #EXTINF:-1 tvg-id="liveevent1111pmgcwhomecoming" tvg-name="LIVE EVENT 11 - 11PM GCW Homecoming" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent11.png" group-title="LIVE | PPV Events",LIVE EVENT 11 - 11PM GCW Homecoming
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233873.ts
-#EXTINF:-1 tvg-id="liveevent129amnwmtnewhampshire" tvg-name="LIVE EVENT 12 - 9AM NWMT New Hampshire" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent12.png" group-title="LIVE | PPV Events",LIVE EVENT 12 - 9AM NWMT New Hampshire
+#EXTINF:-1 tvg-id="liveevent12noevent" tvg-name="LIVE EVENT 12 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent12.png" group-title="LIVE | PPV Events",LIVE EVENT 12 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233874.ts
 #EXTINF:-1 tvg-id="liveevent1310ambridgewarscecil" tvg-name="LIVE EVENT 13 - 10AM Bridge Wars Cecil" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent13.png" group-title="LIVE | PPV Events",LIVE EVENT 13 - 10AM Bridge Wars Cecil
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233875.ts
 #EXTINF:-1 tvg-id="liveevent1412pmalabamstatechampionshipseastalabama" tvg-name="LIVE EVENT 14 - 12PM Alabam State Championships East Alabama" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="LIVE | PPV Events",LIVE EVENT 14 - 12PM Alabam State Championships East Alabama
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233876.ts
-#EXTINF:-1 tvg-id="liveevent151pmsmartmodifiedsfranklin" tvg-name="LIVE EVENT 15 - 1PM Smart Modifieds Franklin" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent15.png" group-title="LIVE | PPV Events",LIVE EVENT 15 - 1PM Smart Modifieds Franklin
+#EXTINF:-1 tvg-id="liveevent15noevent" tvg-name="LIVE EVENT 15 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent15.png" group-title="LIVE | PPV Events",LIVE EVENT 15 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239245.ts
-#EXTINF:-1 tvg-id="liveevent163pmmonstertrucksslinger" tvg-name="LIVE EVENT 16 - 3PM Monster Trucks Slinger" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - 3PM Monster Trucks Slinger
+#EXTINF:-1 tvg-id="liveevent16noevent" tvg-name="LIVE EVENT 16 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233877.ts
 #EXTINF:-1 tvg-id="liveevent182230vninexlegendsriverhead" tvg-name="LIVE EVENT 18 - 22:30 (VN) Inex Legends Riverhead" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - 22:30 (VN) Inex Legends Riverhead
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233879.ts
