@@ -3155,17 +3155,19 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/842083.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/842084.ts
 #EXTINF:-1 tvg-id="nzskysportsselect" tvg-name="NZ | Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sports",NZ | Sky Sports Select
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697715.ts
-#EXTINF:-1 tvg-id="paramount01seriealaziovsromasep211220vn" tvg-name="Paramount+ 01 :Serie A: Lazio vs Roma @ Sep 21 12:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :Serie A: Lazio vs Roma @ Sep 21 12:20 (VN)
+#EXTINF:-1 tvg-id="paramount01serieanapolivspisasep220835vn" tvg-name="Paramount+ 01 :Serie A: Napoli vs Pisa @ Sep 22 08:35 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :Serie A: Napoli vs Pisa @ Sep 22 08:35 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941606.ts
-#EXTINF:-1 tvg-id="paramount02serieatorinovsatalantasep211450vn" tvg-name="Paramount+ 02 :Serie A: Torino vs Atalanta @ Sep 21 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :Serie A: Torino vs Atalanta @ Sep 21 14:50 (VN)
+#EXTINF:-1 tvg-id="paramount02englishfootballleaguemillwallvswatfordsep220850vn" tvg-name="Paramount+ 02 :English Football League: Millwall vs Watford @ Sep 22 08:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :English Football League: Millwall vs Watford @ Sep 22 08:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941605.ts
-#EXTINF:-1 tvg-id="paramount03serieacremonesevsparmasep211450vn" tvg-name="Paramount+ 03 :Serie A: Cremonese vs Parma @ Sep 21 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :Serie A: Cremonese vs Parma @ Sep 21 14:50 (VN)
+#EXTINF:-1 tvg-id="paramount03" tvg-name="Paramount+ 03 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941604.ts
-#EXTINF:-1 tvg-id="paramount04englishfootballleaguebristolcityvsoxfordunitedsep211550vn" tvg-name="Paramount+ 04 :English Football League: Bristol City vs Oxford United @ Sep 21 15:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :English Football League: Bristol City vs Oxford United @ Sep 21 15:50 (VN)
+#EXTINF:-1 tvg-id="paramount04" tvg-name="Paramount+ 04 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941603.ts
-#EXTINF:-1 tvg-id="paramount06serieafiorentinavscomosep211700vn" tvg-name="Paramount+ 06 :Serie A: Fiorentina vs Como @ Sep 21 17:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :Serie A: Fiorentina vs Como @ Sep 21 17:00 (VN)
+#EXTINF:-1 tvg-id="paramount05" tvg-name="Paramount+ 05 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941602.ts
+#EXTINF:-1 tvg-id="paramount06" tvg-name="Paramount+ 06 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941601.ts
-#EXTINF:-1 tvg-id="paramount07serieaintervssassuolosep210800vn" tvg-name="Paramount+ 07 :Serie A: Inter vs Sassuolo @ Sep 21 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :Serie A: Inter vs Sassuolo @ Sep 21 08:00 (VN)
+#EXTINF:-1 tvg-id="paramount07" tvg-name="Paramount+ 07 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941600.ts
 #EXTINF:-1 tvg-id="paramount08" tvg-name="Paramount+ 08 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941599.ts
