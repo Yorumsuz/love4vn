@@ -337,12 +337,10 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239034.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvgrassrootsboxinggrassrootsboxingpurseonthepalmsat20sep1300vn" tvg-name="Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent0112pmalabamastatechampionshipseastalabama" tvg-name="LIVE EVENT 01 - 12PM Alabama State Championships East Alabama" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 12PM Alabama State Championships East Alabama
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent027pmbjjclubes" tvg-name="LIVE EVENT 02 - 7PM BJJ Clubes" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 7PM BJJ Clubes
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
-#EXTINF:-1 tvg-id="liveevent03noevent" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
 #EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
 #EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
