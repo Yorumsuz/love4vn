@@ -323,12 +323,10 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/847486.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/847485.ts
 #EXTINF:-1 tvg-id="fitefitetv247vn" tvg-name="FITE -  Fite TV 24/7 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite0.png" group-title="LIVE | PPV Events",FITE -  Fite TV 24/7 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239017.ts
-#EXTINF:-1 tvg-id="fitetv10hddtrillertvuaeproleagueuaeproleague202526alainvskhorfakkansat20sep1520vn" tvg-name="Fite TV 10 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Ain vs Khorfakkan - Sat,20 Sep 15:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite10.png" group-title="LIVE | PPV Events",Fite TV 10 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Ain vs Khorfakkan - Sat,20 Sep 15:20 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239034.ts
-#EXTINF:-1 tvg-id="fitetv5hddtrillertvcmllcmll92ndanniversaryfri19sep0430vn" tvg-name="Fite TV 5 HD (D): TrillerTV-CMLL CMLL 92nd Anniversary - Fri,19 Sep 04:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite5.png" group-title="LIVE | PPV Events",Fite TV 5 HD (D): TrillerTV-CMLL CMLL 92nd Anniversary - Fri,19 Sep 04:30 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
-#EXTINF:-1 tvg-id="fitetv9hddtrillertvgrassrootsboxinggrassrootsboxingpurseonthepalmsat20sep1300vn" tvg-name="Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-Grassroots Boxing Grassroots Boxing: Purse on the Palm - Sat,20 Sep 13:00 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
+#EXTINF:-1 tvg-id="fitetv2hddtrillertvwandererpromotionswandererpromotions6thu25sep0800vn" tvg-name="Fite TV 2 HD (D): TrillerTV-Wanderer Promotions Wanderer Promotions 6 - Thu,25 Sep 08:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite2.png" group-title="LIVE | PPV Events",Fite TV 2 HD (D): TrillerTV-Wanderer Promotions Wanderer Promotions 6 - Thu,25 Sep 08:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/239015.ts
+#EXTINF:-1 tvg-id="fitetv6hddtrillertvwxwwxwinnercircle18fri26sep1800vn" tvg-name="Fite TV 6 HD (D): TrillerTV-wXw wXw: Inner Circle 18 - Fri,26 Sep 18:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite6.png" group-title="LIVE | PPV Events",Fite TV 6 HD (D): TrillerTV-wXw wXw: Inner Circle 18 - Fri,26 Sep 18:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
 #EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
@@ -3155,30 +3153,24 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/842083.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/842084.ts
 #EXTINF:-1 tvg-id="nzskysportsselect" tvg-name="NZ | Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sports",NZ | Sky Sports Select
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697715.ts
-#EXTINF:-1 tvg-id="paramount01serieanapolivspisasep220835vn" tvg-name="Paramount+ 01 :Serie A: Napoli vs Pisa @ Sep 22 08:35 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :Serie A: Napoli vs Pisa @ Sep 22 08:35 (VN)
+#EXTINF:-1 tvg-id="paramount01serieacagliarivsfrosinonesep231650vn" tvg-name="Paramount+ 01 :Serie A: Cagliari vs Frosinone @ Sep 23 16:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :Serie A: Cagliari vs Frosinone @ Sep 23 16:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941606.ts
-#EXTINF:-1 tvg-id="paramount02englishfootballleaguemillwallvswatfordsep220850vn" tvg-name="Paramount+ 02 :English Football League: Millwall vs Watford @ Sep 22 08:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :English Football League: Millwall vs Watford @ Sep 22 08:50 (VN)
+#EXTINF:-1 tvg-id="paramount02serieaudinesevspalermosep231820vn" tvg-name="Paramount+ 02 :Serie A: Udinese vs Palermo @ Sep 23 18:20 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :Serie A: Udinese vs Palermo @ Sep 23 18:20 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941605.ts
-#EXTINF:-1 tvg-id="paramount03" tvg-name="Paramount+ 03 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :
-http://tv.8dott.xyz:80/live/samuel/samuel123456/941604.ts
-#EXTINF:-1 tvg-id="paramount04" tvg-name="Paramount+ 04 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :
+#EXTINF:-1 tvg-id="paramount04carabaocupwiganathleticvswycombewandererssep230800vn" tvg-name="Paramount+ 04 :Carabao Cup: Wigan Athletic vs Wycombe Wanderers @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :Carabao Cup: Wigan Athletic vs Wycombe Wanderers @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941603.ts
-#EXTINF:-1 tvg-id="paramount05" tvg-name="Paramount+ 05 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :
+#EXTINF:-1 tvg-id="paramount05carabaocupburnleyvscardiffcitysep230800vn" tvg-name="Paramount+ 05 :Carabao Cup: Burnley vs Cardiff City @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :Carabao Cup: Burnley vs Cardiff City @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941602.ts
-#EXTINF:-1 tvg-id="paramount06" tvg-name="Paramount+ 06 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :
+#EXTINF:-1 tvg-id="paramount06carabaocupbarnsleyvsbrightonsep230800vn" tvg-name="Paramount+ 06 :Carabao Cup: Barnsley vs Brighton @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :Carabao Cup: Barnsley vs Brighton @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941601.ts
-#EXTINF:-1 tvg-id="paramount07" tvg-name="Paramount+ 07 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :
+#EXTINF:-1 tvg-id="paramount07carabaocupfulhamvscambridgeunitedsep230800vn" tvg-name="Paramount+ 07 :Carabao Cup: Fulham vs Cambridge United @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :Carabao Cup: Fulham vs Cambridge United @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941600.ts
-#EXTINF:-1 tvg-id="paramount08" tvg-name="Paramount+ 08 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :
+#EXTINF:-1 tvg-id="paramount08carabaocupwrexhamvsreadingsep230800vn" tvg-name="Paramount+ 08 :Carabao Cup: Wrexham vs Reading @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :Carabao Cup: Wrexham vs Reading @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941599.ts
-#EXTINF:-1 tvg-id="paramount09" tvg-name="Paramount+ 09 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 09 :
+#EXTINF:-1 tvg-id="paramount09carabaocuplincolncityvschelseasep230800vn" tvg-name="Paramount+ 09 :Carabao Cup: Lincoln City vs Chelsea @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 09 :Carabao Cup: Lincoln City vs Chelsea @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941598.ts
-#EXTINF:-1 tvg-id="paramount10" tvg-name="Paramount+ 10 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 10 :
+#EXTINF:-1 tvg-id="paramount10carabaocupwolvesvsevertonsep230800vn" tvg-name="Paramount+ 10 :Carabao Cup: Wolves vs Everton @ Sep 23 08:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 10 :Carabao Cup: Wolves vs Everton @ Sep 23 08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941597.ts
-#EXTINF:-1 tvg-id="paramount11" tvg-name="Paramount+ 11 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :
-http://tv.8dott.xyz:80/live/samuel/samuel123456/941596.ts
-#EXTINF:-1 tvg-id="paramount11" tvg-name="Paramount+ 11 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :
-http://tv.8dott.xyz:80/live/samuel/samuel123456/941607.ts
 #EXTINF:-1 tvg-id="paramount13" tvg-name="Paramount+ 13 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 13 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941595.ts
 #EXTINF:-1 tvg-id="paramount14" tvg-name="Paramount+ 14 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 14 :
@@ -3207,11 +3199,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634850.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634851.ts
 #EXTINF:-1 tvg-id="uspitalyseriea10" tvg-name="US (P+) Italy SerieA 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634842.ts
-#EXTINF:-1 tvg-id="uspitalyseriea1napolivspisa22092035vn" tvg-name="US (P+) Italy SerieA 1: Napoli vs Pisa | 22/09 20:35 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Napoli vs Pisa | 22/09 20:35 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea1cagliarivsfrosinone23091650vn" tvg-name="US (P+) Italy SerieA 1: Cagliari vs Frosinone | 23/09 16:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Cagliari vs Frosinone | 23/09 16:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
-#EXTINF:-1 tvg-id="uspitalyseriea2" tvg-name="US (P+) Italy SerieA 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2
+#EXTINF:-1 tvg-id="uspitalyseriea2udinesevspalermo23091820vn" tvg-name="US (P+) Italy SerieA 2: Udinese vs Palermo | 23/09 18:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2: Udinese vs Palermo | 23/09 18:20 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634834.ts
-#EXTINF:-1 tvg-id="uspitalyseriea3" tvg-name="US (P+) Italy SerieA 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3
+#EXTINF:-1 tvg-id="uspitalyseriea3milanvslecce23092050vn" tvg-name="US (P+) Italy SerieA 3: Milan vs Lecce | 23/09 20:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3: Milan vs Lecce | 23/09 20:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634835.ts
 #EXTINF:-1 tvg-id="uspitalyseriea4" tvg-name="US (P+) Italy SerieA 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 4
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634836.ts
