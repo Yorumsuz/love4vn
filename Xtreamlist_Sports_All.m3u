@@ -327,7 +327,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239017.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239015.ts
 #EXTINF:-1 tvg-id="fitetv6hddtrillertvwxwwxwinnercircle18fri26sep1800vn" tvg-name="Fite TV 6 HD (D): TrillerTV-wXw wXw: Inner Circle 18 - Fri,26 Sep 18:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite6.png" group-title="LIVE | PPV Events",Fite TV 6 HD (D): TrillerTV-wXw wXw: Inner Circle 18 - Fri,26 Sep 18:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
-#EXTINF:-1 tvg-id="liveevent018pmdanawhitescontenderseriesweek7" tvg-name="LIVE EVENT 01 - 8PM Dana Whites Contender Series Week 7" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 8PM Dana Whites Contender Series Week 7
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
@@ -3423,47 +3423,47 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/428895.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/428896.ts
 #EXTINF:-1 tvg-id="gasetantaevent30" tvg-name="GA | Setanta Event 30" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" group-title="SPORTS | Setanta",GA | Setanta Event 30
 http://tv.8dott.xyz:80/live/samuel/samuel123456/428897.ts
-#EXTINF:-1 tvg-id="tennis01musettilorenzovstabiloalejandrosep231900vnatpchengdu" tvg-name="Tennis 01 :Musetti, Lorenzo vs Tabilo, Alejandro @ Sep 23 19:00 (VN) - ATP Chengdu" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 01 :Musetti, Lorenzo vs Tabilo, Alejandro @ Sep 23 19:00 (VN) - ATP Chengdu
+#EXTINF:-1 tvg-id="tennis01nyshrogervasselinevscashrtracyjsep241000vnatptokyo" tvg-name="Tennis 01 :Nys H, Roger-Vasselin E vs Cash R, Tracy J @ Sep 24 10:00 (VN) - ATP Tokyo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 01 :Nys H, Roger-Vasselin E vs Cash R, Tracy J @ Sep 24 10:00 (VN) - ATP Tokyo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937160.ts
-#EXTINF:-1 tvg-id="tennis02bublikalexandervsroyervalentinsep231930vnatphangzhou" tvg-name="Tennis 02 :Bublik, Alexander vs Royer, Valentin @ Sep 23 19:30 (VN) - ATP Hangzhou" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 02 :Bublik, Alexander vs Royer, Valentin @ Sep 23 19:30 (VN) - ATP Hangzhou
+#EXTINF:-1 tvg-id="tennis02kesslermccartneyvsshihansep241100vnbeijing" tvg-name="Tennis 02 :Kessler, McCartney vs Shi, Han @ Sep 24 11:00 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 02 :Kessler, McCartney vs Shi, Han @ Sep 24 11:00 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937159.ts
-#EXTINF:-1 tvg-id="tennis03" tvg-name="Tennis 03 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 03 :
+#EXTINF:-1 tvg-id="tennis03cirsteasoranavsdolehidecarolinesep241100vnbeijing" tvg-name="Tennis 03 :Cirstea, Sorana vs Dolehide, Caroline @ Sep 24 11:00 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 03 :Cirstea, Sorana vs Dolehide, Caroline @ Sep 24 11:00 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937158.ts
-#EXTINF:-1 tvg-id="tennis04" tvg-name="Tennis 04 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 04 :
+#EXTINF:-1 tvg-id="tennis04birrellkimberlyvssevastovaanastasijasep241100vnbeijing" tvg-name="Tennis 04 :Birrell, Kimberly vs Sevastova, Anastasija @ Sep 24 11:00 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 04 :Birrell, Kimberly vs Sevastova, Anastasija @ Sep 24 11:00 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937157.ts
-#EXTINF:-1 tvg-id="tennis05" tvg-name="Tennis 05 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 05 :
+#EXTINF:-1 tvg-id="tennis05machactpeersjvsgonzalezmmolteniasep241200vnatptokyo" tvg-name="Tennis 05 :Machac T, Peers J vs Gonzalez M, Molteni A @ Sep 24 12:00 (VN) - ATP Tokyo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 05 :Machac T, Peers J vs Gonzalez M, Molteni A @ Sep 24 12:00 (VN) - ATP Tokyo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937156.ts
-#EXTINF:-1 tvg-id="tennis06" tvg-name="Tennis 06 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 06 :
+#EXTINF:-1 tvg-id="tennis06kruegerashlynvssakkarimariasep241210vnbeijing" tvg-name="Tennis 06 :Krueger, Ashlyn vs Sakkari, Maria @ Sep 24 12:10 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 06 :Krueger, Ashlyn vs Sakkari, Maria @ Sep 24 12:10 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937155.ts
-#EXTINF:-1 tvg-id="tennis07" tvg-name="Tennis 07 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 07 :
+#EXTINF:-1 tvg-id="tennis07mcnallycatyvssiegemundlaurasep241210vnbeijing" tvg-name="Tennis 07 :McNally, Caty vs Siegemund, Laura @ Sep 24 12:10 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 07 :McNally, Caty vs Siegemund, Laura @ Sep 24 12:10 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937154.ts
-#EXTINF:-1 tvg-id="tennis08" tvg-name="Tennis 08 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 08 :
+#EXTINF:-1 tvg-id="tennis08bronzettiluciavsrakhimovakamillasep241210vnbeijing" tvg-name="Tennis 08 :Bronzetti, Lucia vs Rakhimova, Kamilla @ Sep 24 12:10 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 08 :Bronzetti, Lucia vs Rakhimova, Kamilla @ Sep 24 12:10 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937153.ts
-#EXTINF:-1 tvg-id="tennis09" tvg-name="Tennis 09 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 09 :
+#EXTINF:-1 tvg-id="tennis09ruudcthompsonjvsbopannaryuzukitsep241315vnatptokyo" tvg-name="Tennis 09 :Ruud C, Thompson J vs Bopanna R, Yuzuki T @ Sep 24 13:15 (VN) - ATP Tokyo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 09 :Ruud C, Thompson J vs Bopanna R, Yuzuki T @ Sep 24 13:15 (VN) - ATP Tokyo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937152.ts
-#EXTINF:-1 tvg-id="tennis10" tvg-name="Tennis 10 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 10 :
+#EXTINF:-1 tvg-id="tennis10blinkovaannavskrejcikovabarborasep241320vnbeijing" tvg-name="Tennis 10 :Blinkova, Anna vs Krejcikova, Barbora @ Sep 24 13:20 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 10 :Blinkova, Anna vs Krejcikova, Barbora @ Sep 24 13:20 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937151.ts
-#EXTINF:-1 tvg-id="tennis11" tvg-name="Tennis 11 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 11 :
+#EXTINF:-1 tvg-id="tennis11lysevavszhangruiensep241320vnbeijing" tvg-name="Tennis 11 :Lys, Eva vs Zhang, Ruien @ Sep 24 13:20 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 11 :Lys, Eva vs Zhang, Ruien @ Sep 24 13:20 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937150.ts
-#EXTINF:-1 tvg-id="tennis12" tvg-name="Tennis 12 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 12 :
+#EXTINF:-1 tvg-id="tennis12golubicviktorijavshonpriscillasep241320vnbeijing" tvg-name="Tennis 12 :Golubic, Viktorija vs Hon, Priscilla @ Sep 24 13:20 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 12 :Golubic, Viktorija vs Hon, Priscilla @ Sep 24 13:20 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937149.ts
-#EXTINF:-1 tvg-id="tennis13" tvg-name="Tennis 13 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 13 :
+#EXTINF:-1 tvg-id="tennis13jacquemotelsavsruzicantoniasep241320vnbeijing" tvg-name="Tennis 13 :Jacquemot, Elsa vs Ruzic, Antonia @ Sep 24 13:20 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 13 :Jacquemot, Elsa vs Ruzic, Antonia @ Sep 24 13:20 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937148.ts
-#EXTINF:-1 tvg-id="tennis14" tvg-name="Tennis 14 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 14 :
+#EXTINF:-1 tvg-id="tennis14zakharovaanastasiavszhangshuaisep241430vnbeijing" tvg-name="Tennis 14 :Zakharova, Anastasia vs Zhang, Shuai @ Sep 24 14:30 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 14 :Zakharova, Anastasia vs Zhang, Shuai @ Sep 24 14:30 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937147.ts
-#EXTINF:-1 tvg-id="tennis15" tvg-name="Tennis 15 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 15 :
+#EXTINF:-1 tvg-id="tennis15baptistehaileyvsboulterkatiesep241430vnbeijing" tvg-name="Tennis 15 :Baptiste, Hailey vs Boulter, Katie @ Sep 24 14:30 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 15 :Baptiste, Hailey vs Boulter, Katie @ Sep 24 14:30 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937146.ts
-#EXTINF:-1 tvg-id="tennis16" tvg-name="Tennis 16 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 16 :
+#EXTINF:-1 tvg-id="tennis16stearnspeytonvsvolynetskatiesep241430vnbeijing" tvg-name="Tennis 16 :Stearns, Peyton vs Volynets, Katie @ Sep 24 14:30 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 16 :Stearns, Peyton vs Volynets, Katie @ Sep 24 14:30 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937145.ts
-#EXTINF:-1 tvg-id="tennis17" tvg-name="Tennis 17 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 17 :
+#EXTINF:-1 tvg-id="tennis17altmaierdanielvsshapovalovdenissep241500vnatptokyo" tvg-name="Tennis 17 :Altmaier, Daniel vs Shapovalov, Denis @ Sep 24 15:00 (VN) - ATP Tokyo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 17 :Altmaier, Daniel vs Shapovalov, Denis @ Sep 24 15:00 (VN) - ATP Tokyo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937144.ts
-#EXTINF:-1 tvg-id="tennis18" tvg-name="Tennis 18 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 18 :
+#EXTINF:-1 tvg-id="tennis18andreescubiancavsbondarannasep241540vnbeijing" tvg-name="Tennis 18 :Andreescu, Bianca vs Bondar, Anna @ Sep 24 15:40 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 18 :Andreescu, Bianca vs Bondar, Anna @ Sep 24 15:40 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937143.ts
-#EXTINF:-1 tvg-id="tennis19" tvg-name="Tennis 19 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 19 :
+#EXTINF:-1 tvg-id="tennis19bouzkovamarievsmariatatjanasep241540vnbeijing" tvg-name="Tennis 19 :Bouzkova, Marie vs Maria, Tatjana @ Sep 24 15:40 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 19 :Bouzkova, Marie vs Maria, Tatjana @ Sep 24 15:40 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937142.ts
-#EXTINF:-1 tvg-id="tennis20" tvg-name="Tennis 20 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 20 :
+#EXTINF:-1 tvg-id="tennis20inglismaddisonvskudermetovapolinasep241600vnbeijing" tvg-name="Tennis 20 :Inglis, Maddison vs Kudermetova, Polina @ Sep 24 16:00 (VN) - Beijing" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 20 :Inglis, Maddison vs Kudermetova, Polina @ Sep 24 16:00 (VN) - Beijing
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937141.ts
-#EXTINF:-1 tvg-id="tennis21" tvg-name="Tennis 21 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 21 :
+#EXTINF:-1 tvg-id="tennis21fucsovicsmartonvstiafoefrancessep241615vnatptokyo" tvg-name="Tennis 21 :Fucsovics, Marton vs Tiafoe, Frances @ Sep 24 16:15 (VN) - ATP Tokyo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 21 :Fucsovics, Marton vs Tiafoe, Frances @ Sep 24 16:15 (VN) - ATP Tokyo
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937140.ts
 #EXTINF:-1 tvg-id="tennis22" tvg-name="Tennis 22 :" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/Tennis-Channel.png" group-title="SPORTS | Tennis Channel",Tennis 22 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/937139.ts
