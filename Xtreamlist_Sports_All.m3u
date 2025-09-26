@@ -3171,11 +3171,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634849.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634850.ts
 #EXTINF:-1 tvg-id="uspafcchampionsleague9" tvg-name="US (P+) AFC Champions League 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) AFC Champions League 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634851.ts
+#EXTINF:-1 tvg-id="uspitalyseriea1" tvg-name="US (P+) Italy SerieA 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1
+http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
 #EXTINF:-1 tvg-id="uspitalyseriea10" tvg-name="US (P+) Italy SerieA 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634842.ts
-#EXTINF:-1 tvg-id="uspitalyseriea1genoavsempoli25091820vn" tvg-name="US (P+) Italy SerieA 1: Genoa vs Empoli | 25/09 18:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Genoa vs Empoli | 25/09 18:20 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
-#EXTINF:-1 tvg-id="uspitalyseriea2torinovspisa25092050vn" tvg-name="US (P+) Italy SerieA 2: Torino vs Pisa | 25/09 20:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2: Torino vs Pisa | 25/09 20:50 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea2" tvg-name="US (P+) Italy SerieA 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634834.ts
 #EXTINF:-1 tvg-id="uspitalyseriea3" tvg-name="US (P+) Italy SerieA 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634835.ts
@@ -3261,7 +3261,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/838252.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838251.ts
 #EXTINF:-1 tvg-id="uspuefaeuropaconferenceleague9" tvg-name="US (P+) UEFA Europa Conference League 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa Conference League 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838250.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague10ferencvãrosvsviktoriaplzeåˆ25092000vn" tvg-name="US (P+) UEFA Europa League 10: FerencvÃ¡ros vs Viktoria PlzeÅˆ | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 10: FerencvÃ¡ros vs Viktoria PlzeÅˆ | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague1" tvg-name="US (P+) UEFA Europa League 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 1
+http://tv.8dott.xyz:80/live/samuel/samuel123456/838273.ts
+#EXTINF:-1 tvg-id="uspuefaeuropaleague10" tvg-name="US (P+) UEFA Europa League 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838264.ts
 #EXTINF:-1 tvg-id="uspuefaeuropaleague11" tvg-name="US (P+) UEFA Europa League 11" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 11
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838263.ts
@@ -3273,23 +3275,21 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/838261.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838260.ts
 #EXTINF:-1 tvg-id="uspuefaeuropaleague15" tvg-name="US (P+) UEFA Europa League 15" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 15
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838259.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague1lillevsbrann25091800vn" tvg-name="US (P+) UEFA Europa League 1: Lille vs Brann | 25/09 18:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 1: Lille vs Brann | 25/09 18:00 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/838273.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague2goaheadeaglesvsfcsb25091800vn" tvg-name="US (P+) UEFA Europa League 2: Go Ahead Eagles vs FCSB | 25/09 18:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 2: Go Ahead Eagles vs FCSB | 25/09 18:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague2" tvg-name="US (P+) UEFA Europa League 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838272.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague3astonvillavsbologna25092000vn" tvg-name="US (P+) UEFA Europa League 3: Aston Villa vs Bologna | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 3: Aston Villa vs Bologna | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague3" tvg-name="US (P+) UEFA Europa League 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838271.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague4rbsalzburgvsporto25092000vn" tvg-name="US (P+) UEFA Europa League 4: RB Salzburg vs Porto | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 4: RB Salzburg vs Porto | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague4" tvg-name="US (P+) UEFA Europa League 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 4
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838270.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague5thegolazoshow25092000vn" tvg-name="US (P+) UEFA Europa League 5: The Golazo Show | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 5: The Golazo Show | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague5" tvg-name="US (P+) UEFA Europa League 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 5
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838269.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague6rangersvsgenk25092000vn" tvg-name="US (P+) UEFA Europa League 6: Rangers vs Genk | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 6: Rangers vs Genk | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague6" tvg-name="US (P+) UEFA Europa League 6" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 6
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838268.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague7utrechtvslyon25092000vn" tvg-name="US (P+) UEFA Europa League 7: Utrecht vs Lyon | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 7: Utrecht vs Lyon | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague7" tvg-name="US (P+) UEFA Europa League 7" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 7
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838267.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague8stuttgartvscelta25092000vn" tvg-name="US (P+) UEFA Europa League 8: Stuttgart vs Celta | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 8: Stuttgart vs Celta | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague8" tvg-name="US (P+) UEFA Europa League 8" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 8
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838266.ts
-#EXTINF:-1 tvg-id="uspuefaeuropaleague9youngboysvspanathinaikos25092000vn" tvg-name="US (P+) UEFA Europa League 9: Young Boys vs Panathinaikos | 25/09 20:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 9: Young Boys vs Panathinaikos | 25/09 20:00 (VN)
+#EXTINF:-1 tvg-id="uspuefaeuropaleague9" tvg-name="US (P+) UEFA Europa League 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa League 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838265.ts
 #EXTINF:-1 tvg-id="uspeacock01" tvg-name="US | Peacock 01" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock",US | Peacock 01
 http://tv.8dott.xyz:80/live/samuel/samuel123456/400971.ts
